@@ -1,6 +1,7 @@
 library(tidyr)
 library(moments)
 library(boot)
+library(ggplot2)
 
 # Code for Year 2018
 year_code <- "X2018..YR2018."
@@ -106,3 +107,21 @@ PISA_sum_stats <- rbind(df_sum_stats[PISA_code,], PISA_sum_cis)
 
 rownames(PISA_sum_stats) <- c("Est.","Lower", "Upper")
 
+### Visualization of PISA Series ###
+
+PISA_hist <- ggplot(df_subset, aes(x=LO.PISA.MAT.0)) + 
+  geom_histogram(color="black", fill = "white", binwidth = 5)
+PISA_hist
+
+### Bivariate Analysis
+
+pearson_corr <- as.data.frame(cor(df_subset,method = "pearson"))
+
+pearson_corr$Var_1 <- rownames(pearson_corr)
+
+pearson_corr_long <- tidyr::pivot_longer(pearson_corr, cols = !Var_1, names_to = "Var_2", values_to = "Corr")
+
+pearson_heatm <- ggplot(pearson_corr_long, aes(Var_1, Var_2)) + 
+  geom_tile(aes(fill=Corr)) + scale_fill_gradient(low="white", high="steelblue")
+  
+pearson_heatm
