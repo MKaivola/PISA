@@ -115,13 +115,35 @@ PISA_hist
 
 ### Bivariate Analysis
 
-pearson_corr <- as.data.frame(cor(df_subset,method = "pearson"))
+pearson_corr_upper <- cor(df_subset,method = "pearson")
 
-pearson_corr$Var_1 <- rownames(pearson_corr)
+pearson_corr_upper[lower.tri(pearson_corr_upper)] <- NA
 
-pearson_corr_long <- tidyr::pivot_longer(pearson_corr, cols = !Var_1, names_to = "Var_2", values_to = "Corr")
+pearson_corr <- as.data.frame(pearson_corr_upper)
+
+pearson_corr$Var_1 <- factor(rownames(pearson_corr), levels = rownames(pearson_corr))
+
+pearson_corr_long <- tidyr::pivot_longer(pearson_corr, cols = !Var_1, 
+                                         names_to = "Var_2", 
+                                         values_to = "Corr", 
+                                         values_drop_na = T,
+                                         names_transform = function(x) factor(x, levels = rownames(pearson_corr)))
 
 pearson_heatm <- ggplot(pearson_corr_long, aes(Var_1, Var_2)) + 
-  geom_tile(aes(fill=Corr)) + scale_fill_gradient(low="white", high="steelblue")
+  geom_tile(aes(fill=Corr)) + 
+  scale_fill_gradient(low="white", high="steelblue") +
+  theme(panel.grid.major = element_blank())
   
 pearson_heatm
+
+### To avoid excessive colinearity, find covariate pairs with over 0.8 correlation
+
+covar_corrs <- pearson_corr_long[!(pearson_corr_long$Var_1 %in% PISA_code | pearson_corr_long$Var_2 %in% PISA_code),]
+
+covar_corrs <- covar_corrs[covar_corrs$Var_1 != covar_corrs$Var_2,]
+
+covar_high_corrs <- covar_corrs[abs(covar_corrs$Corr) > 0.8,]
+
+### Drop one variable from each pair
+
+df_subset_processed <- df_subset[!(colnames(df_subset) %in% covar_high_corrs$Var_1)]
