@@ -2,6 +2,8 @@ library(tidyr)
 library(moments)
 library(boot)
 library(ggplot2)
+library(car)
+library(lmPerm)
 
 # Code for Year 2018
 year_code <- "X2018..YR2018."
@@ -147,3 +149,86 @@ covar_high_corrs <- covar_corrs[abs(covar_corrs$Corr) > 0.8,]
 ### Drop one variable from each pair
 
 df_subset_processed <- df_subset[!(colnames(df_subset) %in% covar_high_corrs$Var_1)]
+
+### Linear Regression ###
+
+df_subset_processed <- as.data.frame(scale(df_subset_processed))
+
+PISA_lm <- lm(LO.PISA.MAT.0 ~ 0 + ., data = df_subset_processed)
+
+### Diagnostics
+
+res_fitted <- data.frame(res = resid(PISA_lm), fitted = fitted(PISA_lm))
+res_fitted$Country <- rownames(res_fitted)
+
+res_plot <- ggplot(res_fitted, aes(x = fitted, y = res)) +
+  geom_point(color = "steelblue") + 
+  geom_hline(yintercept = 0, linetype = "dashed") +
+  geom_text(data = subset(res_fitted, abs(res) >= 0.75), aes(label = Country), size = 2.5, nudge_y = -0.05) +
+  xlab("Fitted value") + 
+  ylab("Residual")
+
+res_plot
+
+### Estimate CI for R^2
+
+fit_and_extract_R2 <- function(data) {
+  model <- lm(LO.PISA.MAT.0 ~ ., data = data)
+  
+  model_sum <- summary(model)
+  
+  return(model_sum$r.squared)
+  
+}
+
+boot_r2 <- boot::boot(df_subset_processed, function(d, i) fit_and_extract_R2(d[i,]), 1000)
+
+r2_CI <- boot::boot.ci(boot_r2)
+
+### Estimate CI:s for covariates
+
+fit_and_extract_coeff <- function(data) {
+  model <- lm(LO.PISA.MAT.0 ~ 0 + ., data = data)
+  
+  return(coef(model))
+}
+
+boot_coeff <- boot::boot(df_subset_processed, function(d,i) fit_and_extract_coeff(d[i,]), 1000)
+
+param_inds <- 1:length(coef(PISA_lm))
+
+names(param_inds) <- names(coef(PISA_lm))
+
+extract_est_and_CI <- function(boot_obj, index) {
+  boot_ci <- boot::boot.ci(boot_obj, index = index, type = "basic")
+  
+  est <- boot_ci$t0
+  CI <- boot_ci$basic[4:5]
+  
+  data <- c(est, CI)
+  
+  names(data) <- c("Est.", "Lower", "Upper")
+  
+  return(data)
+  
+}
+
+coeff_CI <- as.data.frame(t(sapply(param_inds, function(ind) extract_est_and_CI(boot_coeff, ind))))
+
+coeff_CI$Var <- rownames(coeff_CI)
+
+### Plot the estimates and the confidence intervals
+
+lm_coeff_est_plot <- ggplot(coeff_CI, aes(x = Var, y = Est.)) + 
+  geom_point(color = "steelblue", size = 2) + 
+  geom_linerange(aes(ymax = Upper, ymin = Lower)) +
+  geom_hline(yintercept = 0, linetype = "dashed") +
+  ylim(-1,1)
+
+lm_coeff_est_plot
+
+### Perform permutation tests for covariates
+
+PISA_lm_perm <- summary(lmPerm::lmp(LO.PISA.MAT.0 ~ 0 + ., data = df_subset_processed))
+
+PISA_lm_perm
