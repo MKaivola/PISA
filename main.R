@@ -4,6 +4,7 @@ library(boot)
 library(ggplot2)
 library(car)
 library(lmPerm)
+library(glmnet)
 
 # Code for Year 2018
 year_code <- "X2018..YR2018."
@@ -232,3 +233,44 @@ lm_coeff_est_plot
 PISA_lm_perm <- summary(lmPerm::lmp(LO.PISA.MAT.0 ~ 0 + ., data = df_subset_processed))
 
 PISA_lm_perm
+
+### Variable Selection using LASSO ###
+
+X <- as.matrix(df_subset_processed[,!(colnames(df_subset_processed) %in% PISA_code)])
+y <- df_subset_processed$LO.PISA.MAT.0
+
+lm_LASSO_cv <- glmnet::cv.glmnet(X,y, alpha = 1, standardize = F, intercept = F)
+
+### Plot CV deviance as a function of lambda
+
+df_lambda_cv <- data.frame(lambda = lm_LASSO_cv$lambda, 
+                           mean_cv_err = lm_LASSO_cv$cvm, 
+                           cv_err_up = lm_LASSO_cv$cvup,
+                           cv_err_low = lm_LASSO_cv$cvlo)
+
+LASSO_cv_plot <- ggplot(df_lambda_cv, aes(x = lambda, y = mean_cv_err)) + 
+  geom_point(color = "steelblue") + 
+  geom_linerange(aes(ymax = cv_err_up, ymin = cv_err_low)) + 
+  scale_x_log10() + 
+  geom_vline(aes(xintercept = lm_LASSO_cv$lambda.1se, color = "SE"), linetype = "dashed") +
+  geom_vline(aes(xintercept = lm_LASSO_cv$lambda.min, color = "Min"), linetype = "dashed") +
+  scale_color_manual(name = "Optima", values = c(SE = "red", Min = "black")) +
+  xlab(expression(log(lambda))) +
+  ylab("Mean MSE")
+
+LASSO_cv_plot
+
+### Determine which variables remain in 1se optimal fit
+
+lambda_opt_ind <- lm_LASSO_cv$index[2]
+
+lambda_opt_coef <- lm_LASSO_cv$glmnet.fit$beta[, lambda_opt_ind]
+
+lambda_opt_covars <- names(lambda_opt_coef[lambda_opt_coef != 0])
+
+df_optimal <- df_subset_processed[, colnames(df_subset_processed) %in% c(PISA_code, lambda_opt_covars)]
+
+PISA_lm_LASSO_opt <- lm(LO.PISA.MAT.0 ~ 0 + ., data = df_optimal)
+
+summary(PISA_lm)
+summary(PISA_lm_LASSO_opt)
