@@ -5,6 +5,7 @@ library(ggplot2)
 library(car)
 library(lmPerm)
 library(glmnet)
+library(mgcv)
 
 # Code for Year 2018
 year_code <- "X2018..YR2018."
@@ -95,7 +96,7 @@ var_inds <- 1:ncol(df_subset)
 names(var_inds) <- colnames(df_subset)
 
 boot_ci_func <- function(data, stat) {
-  boot_obj <- boot::boot(data, function(d, ind) apply(data, 2, function(col) stat(col[ind])), 10000, parallel = "snow")
+  boot_obj <- boot::boot(data, function(d, ind) apply(data, 2, function(col) stat(col[ind])), 1000, parallel = "snow")
   
   boot_cis <- sapply(var_inds, function(ind) boot::boot.ci(boot_obj, index = ind, type = "basic")$basic[4:5])
   
@@ -274,3 +275,17 @@ PISA_lm_LASSO_opt <- lm(LO.PISA.MAT.0 ~ 0 + ., data = df_optimal)
 
 summary(PISA_lm)
 summary(PISA_lm_LASSO_opt)
+
+### Generalized Additive Models: Check for non-linear structure
+
+PISA_GAM <- mgcv::gam(LO.PISA.MAT.0 ~ s(SH.XPD.OOPC.PP.CD) +
+                        s(NY.GNP.PCAP.PP.CD) +
+                        s(SP.DYN.TFRT.IN) + 
+                        s(HD.HCI.LAYS.MA) + 
+                        s(VA.PER.RNK) + 
+                        s(GE.PER.RNK),
+                      data = df_subset_processed)
+
+gam.check(PISA_GAM)
+
+plot(PISA_GAM, pages = 1, seWithMean = T)
