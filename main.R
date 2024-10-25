@@ -2,10 +2,12 @@ library(tidyr)
 library(moments)
 library(boot)
 library(ggplot2)
+library(patchwork)
 library(car)
 library(lmPerm)
 library(glmnet)
 library(mgcv)
+library(randomForest)
 
 # Code for Year 2018
 year_code <- "X2018..YR2018."
@@ -289,3 +291,77 @@ PISA_GAM <- mgcv::gam(LO.PISA.MAT.0 ~ s(SH.XPD.OOPC.PP.CD) +
 gam.check(PISA_GAM)
 
 plot(PISA_GAM, pages = 1, seWithMean = T)
+
+### Random Forest Regression Model ###
+
+PISA_rf <- randomForest::randomForest(LO.PISA.MAT.0 ~ 0 + .,
+                                      data = df_subset_processed, 
+                                      importance = T,
+                                      proximity = T)
+
+rf_mse_df <- data.frame(n_trees = 1:PISA_rf$ntree, mse = PISA_rf$mse)
+
+ggplot(rf_mse_df, aes(x = n_trees, y = mse)) +
+  geom_line() +
+  xlab("Number of trees") +
+  ylab("MSE")
+
+PISA_rf_imp <- as.data.frame(randomForest::importance(PISA_rf))
+
+PISA_rf_imp$Var <- factor(rownames(PISA_rf_imp))
+
+colnames(PISA_rf_imp)[1] <- "OOB_MSE"
+
+OOB_imp_plot <- ggplot(PISA_rf_imp, aes(x = reorder(Var, -OOB_MSE), y = OOB_MSE)) + 
+  geom_point() +
+  xlab("Predictor") + 
+  ylab("Out-of-bag MSE") + 
+  scale_x_discrete(guide = guide_axis(angle = 40))
+
+impurity_imp_plot <- ggplot(PISA_rf_imp, aes(x = reorder(Var, -IncNodePurity), y = IncNodePurity)) + 
+  geom_point() +
+  xlab("Predictor") + 
+  ylab("Impurity decrease (MSE)") + 
+  scale_x_discrete(guide = guide_axis(angle = 40))
+
+OOB_imp_plot + impurity_imp_plot
+
+predictors_imp_ord <- rownames(PISA_rf_imp)[order(PISA_rf_imp$OOB_MSE, decreasing = T)]
+
+partial_plots_data <- list()
+
+for (i in seq_along(predictors_imp_ord)) {
+  partial_plots_data <- c(partial_plots_data,  list(list(data = randomForest::partialPlot(PISA_rf,
+                                                                   df_subset_processed,
+                                                                   predictors_imp_ord[i],
+                                                                   plot = F),
+                                                    var = predictors_imp_ord[i])))
+}
+
+names(partial_plots_data) <- predictors_imp_ord
+partial_plot_func <- function(var_data) {
+  ggplot(as.data.frame(var_data$data), aes(x = x, y = y)) + 
+    geom_line() +
+    ggtitle(var_data$var)
+}
+
+partial_plots <- lapply(partial_plots_data, partial_plot_func)
+
+Reduce('+', partial_plots)
+
+rf_cv_vars <- replicate(10,randomForest::rfcv(X, y, scale = F, step = -1,
+                                 mtry = function(p) max(1, floor(p/3))),
+                        simplify = F)
+
+rf_cv_vars_mse <- sapply(rf_cv_vars, '[[', 'error.cv')
+
+rf_cv_df <- data.frame(n_vars = rf_cv_vars[[1]]$n.var, 
+                       mean_mse = apply(rf_cv_vars_mse, 1, mean),
+                       se_mse = apply(rf_cv_vars_mse, 1, sd))
+
+ggplot(rf_cv_df, aes(x = n_vars, y = mean_mse)) + 
+  geom_line() + 
+  geom_linerange(aes(ymin = mean_mse - se_mse, ymax = mean_mse + se_mse)) + 
+  scale_x_reverse() + 
+  xlab("Number of predictors") + 
+  ylab("CV MSE")
