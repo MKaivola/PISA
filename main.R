@@ -338,6 +338,11 @@ for (i in seq_along(predictors_imp_ord)) {
                                                     var = predictors_imp_ord[i])))
 }
 
+y_values <- sapply(partial_plots_data, function(l) l$data$y)
+
+y_max <- max(y_values)
+y_min <- min(y_values)
+
 names(partial_plots_data) <- predictors_imp_ord
 partial_plot_func <- function(var_data) {
   ggplot(as.data.frame(var_data$data), aes(x = x, y = y)) + 
@@ -347,7 +352,9 @@ partial_plot_func <- function(var_data) {
 
 partial_plots <- lapply(partial_plots_data, partial_plot_func)
 
-Reduce('+', partial_plots)
+partial_Plot_Grid <- Reduce('+', partial_plots)
+
+partial_Plot_Grid & ylim(y_min,y_max)
 
 rf_cv_vars <- replicate(10,randomForest::rfcv(X, y, scale = F, step = -1,
                                  mtry = function(p) max(1, floor(p/3))),
