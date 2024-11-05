@@ -8,6 +8,7 @@ library(lmPerm)
 library(glmnet)
 library(mgcv)
 library(randomForest)
+library(xgboost)
 
 # Code for Year 2018
 year_code <- "X2018..YR2018."
@@ -301,10 +302,11 @@ PISA_rf <- randomForest::randomForest(LO.PISA.MAT.0 ~ 0 + .,
 
 rf_mse_df <- data.frame(n_trees = 1:PISA_rf$ntree, mse = PISA_rf$mse)
 
-ggplot(rf_mse_df, aes(x = n_trees, y = mse)) +
+rf_mse_plot <-ggplot(rf_mse_df, aes(x = n_trees, y = sqrt(mse))) +
   geom_line() +
   xlab("Number of trees") +
-  ylab("MSE")
+  ylab("OOB RMSE") +
+  ggtitle("Random Forest")
 
 PISA_rf_imp <- as.data.frame(randomForest::importance(PISA_rf))
 
@@ -372,3 +374,44 @@ ggplot(rf_cv_df, aes(x = n_vars, y = mean_mse)) +
   scale_x_reverse() + 
   xlab("Number of predictors") + 
   ylab("CV MSE")
+
+### Gradient Boosting using xgboost ###
+
+Xy_DMatrix <- xgb.DMatrix(X, label = y)
+
+boost_params <- list(nthread = 2,
+                     eta = 0.05,
+                     subsample = 0.75,
+                     objective = "reg:squarederror")
+
+PISA_gbm <- xgb.train(params = boost_params,
+                      data = Xy_DMatrix,
+                      nrounds = 200,
+                      watchlist = list(train = Xy_DMatrix),
+                      print_every_n = 10)
+
+gbm_feat_imp <- xgb.importance(model = PISA_gbm)
+
+xgb.ggplot.importance(gbm_feat_imp)
+
+PISA_gbm_cv <- xgb.cv(params = boost_params,
+                      data = Xy_DMatrix,
+                      nrounds = 200,
+                      print_every_n = 10,
+                      nfold = 10)
+
+PISA_gbm_cv_table <- PISA_gbm_cv$evaluation_log
+
+PISA_gbm_cv_mse <- ggplot(PISA_gbm_cv_table, aes(x = iter, y = test_rmse_mean)) + 
+  geom_line() +
+  xlab("Number of iterations") + 
+  ylab("Test set RMSE") + 
+  ggtitle("Gradient Boosted Trees")
+
+rf_mse_plot + PISA_gbm_cv_mse & ylim(0,1.2)
+
+xgb.ggplot.shap.summary(data = X,
+                        model = PISA_gbm) +
+  ylab("SHAP value") + 
+  xlab("Feature") + 
+  labs(color = "Value")
