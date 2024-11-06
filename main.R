@@ -9,6 +9,7 @@ library(glmnet)
 library(mgcv)
 library(randomForest)
 library(xgboost)
+library(cv)
 
 # Code for Year 2018
 year_code <- "X2018..YR2018."
@@ -287,7 +288,8 @@ PISA_GAM <- mgcv::gam(LO.PISA.MAT.0 ~ s(SH.XPD.OOPC.PP.CD) +
                         s(HD.HCI.LAYS.MA) + 
                         s(VA.PER.RNK) + 
                         s(GE.PER.RNK),
-                      data = df_subset_processed)
+                      data = df_subset_processed,
+                      select = T)
 
 gam.check(PISA_GAM)
 
@@ -408,10 +410,25 @@ PISA_gbm_cv_mse <- ggplot(PISA_gbm_cv_table, aes(x = iter, y = test_rmse_mean)) 
   ylab("Test set RMSE") + 
   ggtitle("Gradient Boosted Trees")
 
-rf_mse_plot + PISA_gbm_cv_mse & ylim(0,1.2)
-
 xgb.ggplot.shap.summary(data = X,
                         model = PISA_gbm) +
   ylab("SHAP value") + 
   xlab("Feature") + 
   labs(color = "Value")
+
+# CV evaluation for non-ensemble models
+
+PISA_lm_cv <- cv::cv(model=PISA_lm_LASSO_opt,
+                     criterion = cv::rmse,
+                     k = 10)
+
+GAM_cv <- cv::cv(model=PISA_GAM,
+                 criterion = cv::rmse,
+                 k = 10)
+
+rf_mse_plot + PISA_gbm_cv_mse + plot_layout(guides = 'collect') & 
+  ylim(0,1.2) & 
+  geom_hline(aes(yintercept = PISA_lm_cv$`CV crit`, color = "lm"), linetype = 'dashed') &
+  geom_hline(aes(yintercept = GAM_cv$`CV crit`, color = "GAM"), linetype = 'dashed') &
+  scale_color_manual(name = "CV RMSE", values = c(lm = "red", GAM = "black"))
+
