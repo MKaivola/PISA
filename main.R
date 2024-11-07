@@ -1,15 +1,6 @@
-library(tidyr)
-library(moments)
-library(boot)
 library(ggplot2)
 library(patchwork)
-library(car)
-library(lmPerm)
-library(glmnet)
-library(mgcv)
-library(randomForest)
 library(xgboost)
-library(cv)
 
 # Code for Year 2018
 year_code <- "X2018..YR2018."
@@ -280,6 +271,35 @@ PISA_lm_LASSO_opt <- lm(LO.PISA.MAT.0 ~ 0 + ., data = df_optimal)
 summary(PISA_lm)
 summary(PISA_lm_LASSO_opt)
 
+
+### Partial Dependence Plot utilities
+plot_1d_pdps <- function(model, features, train_data, model_name) {
+  
+  pdp_data <- lapply(features,
+                     function(feat) c(name = feat, data = list(pdp::partial(model, 
+                                                                            pred.var = feat,
+                                                                            train = train_data))))
+  
+  pdp_data <- lapply(pdp_data, function(l) {names(l$data)[1] <- "x";l})
+  
+  pdp_plot_fun <- function(var_data) {
+    ggplot(as.data.frame(var_data$data), aes(x = x, y = yhat)) + 
+      geom_line() +
+      ggtitle(var_data$name)
+  }
+  
+  y_values <- sapply(pdp_data, function(l) l$data$yhat)
+  
+  y_max <- max(y_values)
+  y_min <- min(y_values)
+  
+  pdp_plots <- lapply(pdp_data, pdp_plot_fun)
+  
+  Reduce('+', pdp_plots) + plot_annotation(title = paste0("1-D PDP for ", model_name)) & 
+    ylim(y_min, y_max)
+  
+}
+
 ### Generalized Additive Models: Check for non-linear structure
 
 PISA_GAM <- mgcv::gam(LO.PISA.MAT.0 ~ s(SH.XPD.OOPC.PP.CD) +
@@ -291,9 +311,11 @@ PISA_GAM <- mgcv::gam(LO.PISA.MAT.0 ~ s(SH.XPD.OOPC.PP.CD) +
                       data = df_subset_processed,
                       select = T)
 
-gam.check(PISA_GAM)
+mgcv::gam.check(PISA_GAM)
 
 plot(PISA_GAM, pages = 1, seWithMean = T)
+
+plot_1d_pdps(PISA_GAM, colnames(X), df_subset_processed, "GAM")
 
 ### Random Forest Regression Model ###
 
@@ -330,35 +352,9 @@ impurity_imp_plot <- ggplot(PISA_rf_imp, aes(x = reorder(Var, -IncNodePurity), y
 
 OOB_imp_plot + impurity_imp_plot
 
-predictors_imp_ord <- rownames(PISA_rf_imp)[order(PISA_rf_imp$OOB_MSE, decreasing = T)]
+rf_feat_imp_ord <- rownames(PISA_rf_imp)[order(PISA_rf_imp$OOB_MSE, decreasing = T)]
 
-partial_plots_data <- list()
-
-for (i in seq_along(predictors_imp_ord)) {
-  partial_plots_data <- c(partial_plots_data,  list(list(data = randomForest::partialPlot(PISA_rf,
-                                                                   df_subset_processed,
-                                                                   predictors_imp_ord[i],
-                                                                   plot = F),
-                                                    var = predictors_imp_ord[i])))
-}
-
-y_values <- sapply(partial_plots_data, function(l) l$data$y)
-
-y_max <- max(y_values)
-y_min <- min(y_values)
-
-names(partial_plots_data) <- predictors_imp_ord
-partial_plot_func <- function(var_data) {
-  ggplot(as.data.frame(var_data$data), aes(x = x, y = y)) + 
-    geom_line() +
-    ggtitle(var_data$var)
-}
-
-partial_plots <- lapply(partial_plots_data, partial_plot_func)
-
-partial_Plot_Grid <- Reduce('+', partial_plots)
-
-partial_Plot_Grid & ylim(y_min,y_max)
+plot_1d_pdps(PISA_rf, rf_feat_imp_ord, df_subset_processed, "Random Forest")
 
 rf_cv_vars <- replicate(10,randomForest::rfcv(X, y, scale = F, step = -1,
                                  mtry = function(p) max(1, floor(p/3))),
@@ -415,6 +411,8 @@ xgb.ggplot.shap.summary(data = X,
   ylab("SHAP value") + 
   xlab("Feature") + 
   labs(color = "Value")
+
+plot_1d_pdps(PISA_gbm, gbm_feat_imp$Feature, X, "GB Trees")
 
 # CV evaluation for non-ensemble models
 
