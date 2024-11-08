@@ -66,17 +66,33 @@ props_NA_obs <- apply(df, 1, function(col) mean(is.na(col)))
 
 sort(props_NA_obs)
 
-# Drop variables for which proportion exceeds 10 %
+### Missing value filtering ###
 
-vars_to_drop <- names(props_NA_var[props_NA_var > 0.1])
+drop_missing <- function(df, 
+                         props_NA, 
+                         prop_thres,
+                         drop_obs = F) {
+  
+  # Drop variables for which proportion exceeds prop_thres
+  vars_to_drop <- names(props_NA[props_NA > prop_thres])
+  
+  df_subset <- df[!(names(df) %in% vars_to_drop)]
+  
+  if (!drop_obs) {
+    return(df_subset)
+  }
+  
+  # Drop obs where there are missing values
+  obs_to_drop <- !apply(df_subset, 1, function(row) any(is.na(row)))
+  
+  df_subset[obs_to_drop, ]
+}
 
-df_subset <- df[!(names(df) %in% vars_to_drop)]
-
-# Drop obs where there are missing values
-
-obs_to_drop <- !apply(df_subset, 1, function(row) any(is.na(row)))
-
-df_subset <- df_subset[obs_to_drop, ]
+# Use 0.1 as threshold
+df_subset <- drop_missing(df, 
+                          props_NA_var,
+                          0.1,
+                          drop_obs=T)
 
 ### Univariate analysis ###
 
@@ -114,34 +130,59 @@ PISA_hist
 
 ### Bivariate Analysis
 
-pearson_corr_upper <- cor(df_subset,method = "pearson")
+pearson_cor_mat <- cor(df_subset,method = "pearson")
 
-pearson_corr_upper[lower.tri(pearson_corr_upper)] <- NA
+### Long representation of correlation matrix
 
-pearson_corr <- as.data.frame(pearson_corr_upper)
-
-pearson_corr$Var_1 <- factor(rownames(pearson_corr), levels = rownames(pearson_corr))
-
-pearson_corr_long <- tidyr::pivot_longer(pearson_corr, cols = !Var_1, 
-                                         names_to = "Var_2", 
-                                         values_to = "Corr", 
-                                         values_drop_na = T,
-                                         names_transform = function(x) factor(x, levels = rownames(pearson_corr)))
-
-pearson_heatm <- ggplot(pearson_corr_long, aes(Var_1, Var_2)) + 
-  geom_tile(aes(fill=Corr)) + 
-  scale_fill_gradient(low="white", high="steelblue") +
-  theme(panel.grid.major = element_blank())
+cor_wide_to_long <- function(cor_mat) {
+  cor_mat[lower.tri(cor_mat)] <- NA
   
-pearson_heatm
+  cor_mat <- as.data.frame(cor_mat)
+  
+  cor_mat$Var_1 <- factor(rownames(cor_mat), levels = rownames(cor_mat))
+  
+  cor_mat_long <- tidyr::pivot_longer(cor_mat, cols = !Var_1, 
+                                           names_to = "Var_2", 
+                                           values_to = "Corr", 
+                                           values_drop_na = T,
+                                           names_transform = function(x) factor(x, levels = rownames(cor_mat)))
+  
+  return(cor_mat_long)
+}
+
+### Heat map constructor
+
+plot_cor_heatmap <- function(cor_mat_long) {
+  
+  pearson_heatm <- ggplot(cor_mat_long, aes(Var_1, Var_2)) + 
+    geom_tile(aes(fill=Corr)) + 
+    scale_fill_gradient(low="white", high="steelblue") +
+    theme(panel.grid.major = element_blank())
+    
+  pearson_heatm
+}
+
+pearson_cor_long <- cor_wide_to_long(pearson_cor_mat)
+
+plot_cor_heatmap(pearson_cor_long)
 
 ### To avoid excessive colinearity, find covariate pairs with over 0.8 correlation
 
-covar_corrs <- pearson_corr_long[!(pearson_corr_long$Var_1 %in% PISA_code | pearson_corr_long$Var_2 %in% PISA_code),]
+get_colinear_pairs <- function(cor_long, 
+                               cor_thres,
+                               response) {
+  covar_corrs <- cor_long[!(cor_long$Var_1 %in% response | cor_long$Var_2 %in% response),]
+  
+  covar_corrs <- covar_corrs[covar_corrs$Var_1 != covar_corrs$Var_2,]
+  
+  covar_high_corrs <- covar_corrs[abs(covar_corrs$Corr) > cor_thres,]
+  
+  return(covar_high_corrs)
+}
 
-covar_corrs <- covar_corrs[covar_corrs$Var_1 != covar_corrs$Var_2,]
-
-covar_high_corrs <- covar_corrs[abs(covar_corrs$Corr) > 0.8,]
+covar_high_corrs <- get_colinear_pairs(pearson_cor_long,
+                                       0.8,
+                                       PISA_code)
 
 ### Drop one variable from each pair
 
@@ -416,17 +457,52 @@ plot_1d_pdps(PISA_gbm, gbm_feat_imp$Feature, X, "GB Trees")
 
 # CV evaluation for non-ensemble models
 
+mean_rep_cv_score <- function(cv_obj) {
+  mean(sapply(cv_obj, '[[', 'CV crit'))
+}
+
 PISA_lm_cv <- cv::cv(model=PISA_lm_LASSO_opt,
                      criterion = cv::rmse,
-                     k = 10)
+                     k = 10,
+                     reps = 5)
+
+PISA_lm_cv_mean <- mean_rep_cv_score(PISA_lm_cv)
 
 GAM_cv <- cv::cv(model=PISA_GAM,
                  criterion = cv::rmse,
-                 k = 10)
+                 k = 10,
+                 rep = 5,
+                 ncores = 4)
+
+GAM_cv_mean <- mean_rep_cv_score(GAM_cv)
 
 rf_mse_plot + PISA_gbm_cv_mse + plot_layout(guides = 'collect') & 
   ylim(0,1.2) & 
-  geom_hline(aes(yintercept = PISA_lm_cv$`CV crit`, color = "lm"), linetype = 'dashed') &
-  geom_hline(aes(yintercept = GAM_cv$`CV crit`, color = "GAM"), linetype = 'dashed') &
+  geom_hline(aes(yintercept = PISA_lm_cv_mean, color = "lm"), linetype = 'dashed') &
+  geom_hline(aes(yintercept = GAM_cv_mean, color = "GAM"), linetype = 'dashed') &
   scale_color_manual(name = "CV RMSE", values = c(lm = "red", GAM = "black"))
+
+
+### Imputation and other missing value considerations ###
+
+# Take all features where missing value proportion is at most 0.4
+
+df_with_missing  <- drop_missing(df,
+                                props_NA_var,
+                                0.4,
+                                drop_obs=F)
+
+cor_mat_missing <- cor(df_with_missing,
+                       use = "complete.obs")
+
+cor_mat_missing_long <- cor_wide_to_long(cor_mat_missing)
+
+plot_cor_heatmap(cor_mat_missing_long)
+
+high_cor_pairs_mis <- get_colinear_pairs(cor_mat_missing_long,
+                                         0.9,
+                                         PISA_code)
+
+df_miss_subset <- df_with_missing[!(colnames(df_with_missing) %in% high_cor_pairs_mis$Var_1)]
+
 
