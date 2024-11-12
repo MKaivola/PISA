@@ -367,7 +367,7 @@ PISA_rf <- randomForest::randomForest(LO.PISA.MAT.0 ~ 0 + .,
 
 rf_mse_df <- data.frame(n_trees = 1:PISA_rf$ntree, mse = PISA_rf$mse)
 
-rf_mse_plot <-ggplot(rf_mse_df, aes(x = n_trees, y = sqrt(mse))) +
+rf_mse_plot <- ggplot(rf_mse_df, aes(x = n_trees, y = sqrt(mse))) +
   geom_line() +
   xlab("Number of trees") +
   ylab("OOB RMSE") +
@@ -416,6 +416,14 @@ ggplot(rf_cv_df, aes(x = n_vars, y = mean_mse)) +
 
 ### Gradient Boosting using xgboost ###
 
+plot_gbm_learn_curve <- function(eval_log) {
+  ggplot(PISA_gbm_cv_table, aes(x = iter, y = test_rmse_mean)) + 
+    geom_line() +
+    xlab("Number of iterations") + 
+    ylab("Test set RMSE") + 
+    ggtitle("Gradient Boosted Trees")
+}
+
 Xy_DMatrix <- xgb.DMatrix(X, label = y)
 
 boost_params <- list(nthread = 2,
@@ -439,13 +447,9 @@ PISA_gbm_cv <- xgb.cv(params = boost_params,
                       print_every_n = 10,
                       nfold = 10)
 
-PISA_gbm_cv_table <- PISA_gbm_cv$evaluation_log
+PISA_gbm_cv_log <- PISA_gbm_cv$evaluation_log
 
-PISA_gbm_cv_mse <- ggplot(PISA_gbm_cv_table, aes(x = iter, y = test_rmse_mean)) + 
-  geom_line() +
-  xlab("Number of iterations") + 
-  ylab("Test set RMSE") + 
-  ggtitle("Gradient Boosted Trees")
+PISA_gbm_cv_mse <-plot_gbm_learn_curve(PISA_gbm_cv_log)
 
 xgb.ggplot.shap.summary(data = X,
                         model = PISA_gbm) +
@@ -471,8 +475,7 @@ PISA_lm_cv_mean <- mean_rep_cv_score(PISA_lm_cv)
 GAM_cv <- cv::cv(model=PISA_GAM,
                  criterion = cv::rmse,
                  k = 10,
-                 rep = 5,
-                 ncores = 4)
+                 rep = 5)
 
 GAM_cv_mean <- mean_rep_cv_score(GAM_cv)
 
@@ -505,4 +508,59 @@ high_cor_pairs_mis <- get_colinear_pairs(cor_mat_missing_long,
 
 df_miss_subset <- df_with_missing[!(colnames(df_with_missing) %in% high_cor_pairs_mis$Var_1)]
 
+Xy_miss_subset_proc <- scale(df_miss_subset)
 
+X_miss <- Xy_miss_subset_proc[,!(colnames(Xy_miss_subset_proc) %in% PISA_code)]
+y_miss <- Xy_miss_subset_proc[, PISA_code]
+
+Xy_miss_Dmat <- xgb.DMatrix(X_miss, label = y_miss)
+
+PISA_miss_gbm <- xgb.train(params = boost_params,
+                      data = Xy_miss_Dmat,
+                      nrounds = 200,
+                      watchlist = list(train = Xy_miss_Dmat),
+                      print_every_n = 10)
+
+gbm_miss_feat_imp <- xgb.importance(model = PISA_miss_gbm)
+
+xgb.ggplot.importance(gbm_miss_feat_imp)
+
+PISA_miss_gbm_cv <- xgb.cv(params = boost_params,
+                      data = Xy_miss_Dmat,
+                      nrounds = 200,
+                      print_every_n = 10,
+                      nfold = 10)
+
+PISA_miss_gbm_cv_log <- PISA_miss_gbm_cv$evaluation_log
+
+plot_gbm_learn_curve(PISA_gbm_cv_log)
+
+plot_1d_pdps(PISA_miss_gbm, gbm_miss_feat_imp$Feature, X_miss, "GB Trees")
+
+# No improvement compared to smaller model when using default missing value strategy
+
+Xy_imputed <- randomForest::rfImpute(LO.PISA.MAT.0 ~ 0 + .,
+                                     data=df_miss_subset)
+
+Xy_imputed_proc <- scale(Xy_imputed)
+
+X_imputed <- Xy_imputed_proc[, !(colnames(Xy_imputed_proc) %in% PISA_code)]
+
+Xy_imp_Dmat <- xgb.DMatrix(X_imputed, label = y_miss)
+
+PISA_imp_gbm <- xgb.train(params = boost_params,
+                           data = Xy_imp_Dmat,
+                           nrounds = 200,
+                           watchlist = list(train = Xy_imp_Dmat),
+                           print_every_n = 10)
+
+PISA_imp_gbm_cv <- xgb.cv(params = boost_params,
+                          data = Xy_imp_Dmat,
+                          nrounds = 200,
+                          print_every_n = 10,
+                          nfold = 10)
+plot_gbm_learn_curve(PISA_imp_gbm_cv$evaluation_log)
+
+plot_1d_pdps(PISA_imp_gbm, gbm_miss_feat_imp$Feature, X_imputed, "GB Trees")
+
+# Also no improvement when using Random Forest proximity imputation
