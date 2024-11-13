@@ -1,0 +1,25 @@
+{
+  "chart": {
+    "title": "World regions according to Our World in Data",
+    "subtitle": "",
+    "citation": "Our World In Data",
+    "originalChartUrl": "https://ourworldindata.org/grapher/continents-according-to-our-world-in-data?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Belgium"
+    ]
+  },
+  "columns": {
+    "Continent": {
+      "titleShort": "Continent",
+      "titleLong": "Continent",
+      "unit": "",
+      "timespan": "",
+      "type": "Continent",
+      "owidVariableId": 123,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Continent” [dataset]. Our World In Data [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/123.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-11-13"
+}

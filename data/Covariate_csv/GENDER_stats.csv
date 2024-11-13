@@ -1,801 +1,801 @@
-Series Name,Series Code,Country Name,Country Code,2000 [YR2000],2003 [YR2003],2006 [YR2006],2009 [YR2009],2012 [YR2012],2015 [YR2015],2018 [YR2018]
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Afghanistan,AFG,7.485,7.148,6.722,6.18,5.562,4.976,4.473
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Albania,ALB,2.157,1.897,1.704,1.652,1.684,1.677,1.617
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Algeria,DZA,2.514,2.405,2.569,2.799,2.952,3.043,3.023
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,American Samoa,ASM,..,..,..,..,..,..,..
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Andorra,AND,..,..,1.24,1.19,..,..,..
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Angola,AGO,6.639,6.533,6.419,6.26,6.039,5.774,5.519
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Antigua and Barbuda,ATG,2.2,2.14,2.048,1.993,1.993,2.003,1.994
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Argentina,ARG,2.542,2.461,2.397,2.355,2.33,2.301,2.261
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Armenia,ARM,1.648,1.645,1.69,1.719,1.725,1.738,1.755
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Aruba,ABW,1.872,1.803,1.765,1.761,1.795,1.854,1.896
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Australia,AUS,1.756,1.748,1.908,1.971,1.92,1.814,1.74
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Austria,AUT,1.36,1.38,1.41,1.39,1.44,1.49,1.47
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Azerbaijan,AZE,2,1.9,1.97,1.82,2,1.94,1.73
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Bahamas, The",BHS,2.073,1.889,1.869,1.877,1.828,1.782,1.752
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Bahrain,BHR,2.795,2.59,2.363,2.197,2.118,2.056,1.987
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Bangladesh,BGD,3.169,2.876,2.604,2.382,2.228,2.12,2.036
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Barbados,BRB,1.775,1.797,1.775,1.711,1.645,1.614,1.619
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Belarus,BLR,1.317,1.232,1.335,1.509,1.62,1.724,1.448
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Belgium,BEL,1.67,1.67,1.8,1.84,1.8,1.7,1.62
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Belize,BLZ,3.601,3.286,2.98,2.749,2.588,2.439,2.307
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Benin,BEN,5.962,5.754,5.576,5.416,5.246,5.047,4.836
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Bermuda,BMU,1.74,1.8,1.76,1.76,1.6,1.4,1.3
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Bhutan,BTN,3.515,3.037,2.679,2.387,2.159,2.037,1.975
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Bolivia,BOL,4.051,3.798,3.533,3.287,3.076,2.886,2.73
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Bosnia and Herzegovina,BIH,1.497,1.33,1.288,1.311,1.313,1.296,1.265
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Botswana,BWA,3.304,3.159,3.066,3.026,3.011,2.968,2.874
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Brazil,BRA,2.3,2.097,1.925,1.818,1.771,1.753,1.73
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,British Virgin Islands,VGB,..,..,..,..,..,..,..
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Brunei Darussalam,BRN,2.346,2.154,1.969,1.921,1.973,1.947,1.848
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Bulgaria,BGR,1.26,1.26,1.44,1.66,1.5,1.53,1.56
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Burkina Faso,BFA,6.592,6.403,6.192,5.953,5.693,5.436,5.189
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Burundi,BDI,6.92,6.736,6.515,6.267,5.994,5.697,5.41
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Cabo Verde,CPV,3.539,3.151,2.839,2.629,2.5,2.385,2.274
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Cambodia,KHM,3.805,3.406,3.155,2.947,2.739,2.593,2.503
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Cameroon,CMR,5.58,5.431,5.309,5.167,4.984,4.777,4.572
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Canada,CAN,1.51,1.54,1.61,1.68,1.62,1.6,1.5
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Cayman Islands,CYM,..,..,..,..,..,..,..
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Central African Republic,CAF,5.5,5.436,5.353,5.254,5.123,4.941,4.721
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Chad,TCD,7.354,7.212,6.992,6.699,6.372,6.049,5.747
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Channel Islands,CHI,1.526,1.492,1.527,1.578,1.58,1.541,1.51
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Chile,CHL,2.055,1.943,1.901,1.892,1.849,1.75,1.649
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,China,CHN,1.596,1.604,1.615,1.623,1.639,1.665,1.69
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Colombia,COL,2.572,2.395,2.198,2.033,1.93,1.863,1.807
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Comoros,COM,5.384,5.167,4.984,4.813,4.628,4.419,4.205
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Congo, Dem. Rep.",COD,6.751,6.718,6.671,6.587,6.432,6.203,5.919
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Congo, Rep.",COG,4.871,4.846,4.82,4.784,4.712,4.587,4.428
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Costa Rica,CRI,2.363,2.124,1.978,1.903,1.853,1.806,1.754
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Cote d'Ivoire,CIV,5.87,5.63,5.376,5.152,4.974,4.813,4.649
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Croatia,HRV,1.39,1.41,1.47,1.5,1.52,1.41,1.47
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Cuba,CUB,1.603,1.583,1.576,1.624,1.683,1.674,1.618
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Curacao,CUW,..,..,2.1,2.1,2.2,1.9,1.7
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Cyprus,CYP,1.716,1.576,1.498,1.443,1.39,1.354,1.329
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Czech Republic,CZE,1.15,1.18,1.34,1.51,1.45,1.57,1.71
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Denmark,DNK,1.77,1.76,1.85,1.84,1.73,1.71,1.73
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Djibouti,DJI,4.484,4.118,3.739,3.397,3.131,2.912,2.728
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Dominica,DMA,..,1.9,..,..,..,..,..
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Dominican Republic,DOM,2.839,2.725,2.619,2.528,2.46,2.405,2.346
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Ecuador,ECU,3.102,2.911,2.753,2.643,2.567,2.499,2.427
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Egypt, Arab Rep.",EGY,3.34,3.106,3.013,3.154,3.377,3.436,3.326
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,El Salvador,SLV,3.022,2.691,2.465,2.31,2.187,2.101,2.039
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Equatorial Guinea,GNQ,5.834,5.675,5.498,5.288,5.04,4.774,4.513
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Eritrea,ERI,5.321,5.073,4.881,4.656,4.407,4.217,4.056
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Estonia,EST,1.36,1.37,1.58,1.7,1.56,1.58,1.67
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Eswatini,SWZ,3.915,3.745,3.617,3.421,3.195,3.065,2.99
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Ethiopia,ETH,6.543,6.112,5.667,5.26,4.901,4.565,4.247
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Faroe Islands,FRO,2.6,2.5,2.5,2.4,2.6,2.4,2.5
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Fiji,FJI,3.09,2.944,2.807,2.75,2.773,2.8,2.774
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Finland,FIN,1.73,1.76,1.84,1.86,1.8,1.65,1.41
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,France,FRA,1.89,1.89,2,2,2.01,1.96,1.87
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,French Polynesia,PYF,2.463,2.331,2.217,2.121,2.048,1.99,1.941
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Gabon,GAB,4.533,4.332,4.223,4.164,4.113,4.064,3.969
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Gambia, The",GMB,5.879,5.787,5.696,5.612,5.518,5.39,5.219
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Georgia,GEO,1.608,1.599,1.711,1.866,1.984,2.05,2.06
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Germany,DEU,1.38,1.34,1.33,1.36,1.41,1.5,1.57
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Ghana,GHA,4.826,4.612,4.438,4.311,4.192,4.041,3.87
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Gibraltar,GIB,..,..,..,..,..,..,..
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Greece,GRC,1.25,1.29,1.4,1.5,1.34,1.33,1.35
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Greenland,GRL,2.329,2.372,2.256,2.359,2.019,2.01,2
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Grenada,GRD,2.582,2.409,2.321,2.262,2.194,2.126,2.063
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Guam,GUM,2.824,2.718,2.598,2.509,2.45,2.383,2.313
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Guatemala,GTM,4.598,4.245,3.833,3.471,3.219,3.029,2.87
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Guinea,GIN,6.082,5.877,5.653,5.417,5.175,4.933,4.7
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Guinea-Bissau,GNB,5.82,5.555,5.312,5.11,4.923,4.708,4.476
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Guyana,GUY,3.017,2.924,2.797,2.684,2.606,2.534,2.462
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Haiti,HTI,4.344,4.029,3.746,3.501,3.288,3.098,2.935
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Honduras,HND,4.237,3.815,3.419,3.063,2.774,2.581,2.46
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Hong Kong SAR, China",HKG,1.032,0.901,0.984,1.055,1.285,1.196,1.072
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Hungary,HUN,1.32,1.27,1.34,1.32,1.34,1.45,1.55
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Iceland,ISL,2.08,1.99,2.08,2.23,2.04,1.8,1.71
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,India,IND,3.311,3.109,2.899,2.661,2.439,2.295,2.222
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Indonesia,IDN,2.512,2.513,2.51,2.492,2.455,2.389,2.311
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Iran, Islamic Rep.",IRN,2.067,1.878,1.812,1.821,1.901,2.041,2.137
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Iraq,IRQ,4.94,4.676,4.48,4.374,4.243,3.972,3.672
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Ireland,IRL,1.89,1.96,1.91,2.06,1.98,1.85,1.75
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Isle of Man,IMN,..,..,..,..,..,..,..
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Israel,ISR,2.95,2.95,2.88,2.96,3.05,3.09,3.09
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Italy,ITA,1.26,1.29,1.37,1.45,1.43,1.35,1.29
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Jamaica,JAM,2.577,2.439,2.325,2.212,2.102,2.026,1.979
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Japan,JPN,1.359,1.29,1.32,1.37,1.41,1.45,1.42
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Jordan,JOR,4.109,3.977,3.866,3.706,3.436,3.071,2.761
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Kazakhstan,KAZ,1.8,2.03,2.36,2.55,2.62,2.74,2.84
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Kenya,KEN,5.178,4.979,4.767,4.482,4.123,3.765,3.492
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Kiribati,KIR,4.058,3.95,3.895,3.859,3.796,3.692,3.569
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Korea, Dem. People's Rep.",PRK,1.991,1.986,1.966,1.943,1.931,1.922,1.904
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Korea, Rep.",KOR,1.48,1.191,1.132,1.149,1.297,1.239,0.977
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Kosovo,XKX,2.95,2.34,2.43,2.34,2.19,2.09,2
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Kuwait,KWT,2.845,2.614,2.447,2.291,2.139,2.083,2.082
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Kyrgyz Republic,KGZ,2.4,2.5,2.7,2.9,3.2,3.2,3.3
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Lao PDR,LAO,4.311,3.845,3.516,3.234,2.977,2.796,2.667
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Latvia,LVA,1.25,1.32,1.46,1.46,1.44,1.7,1.6
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Lebanon,LBN,2.405,2.142,1.956,1.938,2.038,2.103,2.087
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Lesotho,LSO,3.792,3.616,3.449,3.328,3.265,3.218,3.141
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Liberia,LBR,5.866,5.61,5.338,5.062,4.793,4.54,4.315
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Libya,LBY,2.851,2.609,2.509,2.485,2.447,2.356,2.24
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Liechtenstein,LIE,1.57,1.36,1.43,1.71,1.51,1.4,1.58
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Lithuania,LTU,1.39,1.26,1.33,1.5,1.6,1.7,1.63
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Luxembourg,LUX,1.76,1.62,1.65,1.59,1.57,1.47,1.38
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Macao SAR, China",MAC,0.95,0.86,0.911,1.048,1.161,1.203,1.217
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Madagascar,MDG,5.551,5.24,4.956,4.689,4.442,4.241,4.077
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Malawi,MWI,6.098,6,5.844,5.491,4.988,4.527,4.209
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Malaysia,MYS,2.784,2.438,2.249,2.169,2.11,2.056,2.001
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Maldives,MDV,2.771,2.372,2.262,2.231,2.129,1.991,1.87
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Mali,MLI,6.897,6.842,6.76,6.612,6.396,6.145,5.877
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Malta,MLT,1.68,1.48,1.36,1.42,1.42,1.37,1.23
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Marshall Islands,MHL,..,..,4.5,..,..,..,..
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Mauritania,MRT,5.413,5.277,5.14,5.019,4.895,4.738,4.561
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Mauritius,MUS,1.99,1.87,1.77,1.59,1.54,1.36,1.41
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Mexico,MEX,2.716,2.579,2.456,2.364,2.294,2.215,2.129
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Micronesia, Fed. Sts.",FSM,4.3,4.007,3.739,3.522,3.347,3.193,3.053
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Moldova,MDA,1.435,1.247,1.227,1.268,1.273,1.261,1.262
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Monaco,MCO,..,..,..,..,..,..,..
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Mongolia,MNG,2.141,2.087,2.253,2.541,2.794,2.918,2.895
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Montenegro,MNE,1.875,1.852,1.73,1.98,1.72,1.74,1.76
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Morocco,MAR,2.771,2.632,2.553,2.556,2.579,2.524,2.415
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Mozambique,MOZ,5.826,5.768,5.634,5.454,5.264,5.062,4.852
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Myanmar,MMR,2.878,2.763,2.596,2.412,2.274,2.198,2.154
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Namibia,NAM,3.88,3.604,3.56,3.62,3.623,3.54,3.396
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Nauru,NRU,..,..,..,..,..,..,..
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Nepal,NPL,3.955,3.422,2.986,2.644,2.351,2.098,1.917
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Netherlands,NLD,1.72,1.75,1.72,1.79,1.72,1.66,1.59
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,New Caledonia,NCL,2.59,2.27,2.29,2.2,2.28,2.06,1.97
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,New Zealand,NZL,1.98,1.93,2.01,2.13,2.1,1.99,1.71
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Nicaragua,NIC,3.111,2.874,2.725,2.628,2.55,2.48,2.404
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Niger,NER,7.679,7.645,7.592,7.511,7.376,7.169,6.913
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Nigeria,NGA,6.106,6.036,5.958,5.872,5.758,5.592,5.387
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,North Macedonia,MKD,1.723,1.605,1.46,1.5,1.5,1.49,1.42
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Northern Mariana Islands,MNP,..,..,..,..,..,..,..
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Norway,NOR,1.85,1.8,1.9,1.98,1.85,1.72,1.56
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Oman,OMN,3.716,3.142,2.904,2.868,2.896,2.939,2.888
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Pakistan,PAK,5.037,4.648,4.31,4.031,3.816,3.66,3.51
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Palau,PLW,1.83,..,..,..,2.23,2.21,..
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Panama,PAN,2.744,2.679,2.643,2.628,2.601,2.54,2.461
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Papua New Guinea,PNG,4.525,4.368,4.21,4.043,3.869,3.707,3.564
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Paraguay,PRY,3.553,3.21,2.97,2.787,2.625,2.508,2.429
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Peru,PER,2.845,2.723,2.682,2.594,2.441,2.323,2.254
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Philippines,PHL,3.811,3.65,3.429,3.236,3.055,2.805,2.576
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Poland,POL,1.37,1.22,1.27,1.4,1.33,1.32,1.46
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Portugal,PRT,1.55,1.44,1.37,1.34,1.28,1.31,1.42
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Puerto Rico,PRI,2.0485,1.7624,1.7123,1.6528,1.5425,1.3365,1.035
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Qatar,QAT,3.236,2.858,2.433,2.13,1.997,1.929,1.866
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Romania,ROU,1.31,1.3,1.42,1.66,1.52,1.62,1.76
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Russian Federation,RUS,1.195,1.319,1.305,1.542,1.691,1.777,1.579
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Rwanda,RWA,5.64,5.342,5.015,4.641,4.322,4.157,4.044
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Samoa,WSM,4.503,4.454,4.46,4.388,4.212,4.029,3.877
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,San Marino,SMR,..,..,..,..,1.26,..,..
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Sao Tome and Principe,STP,5.176,5.049,4.919,4.776,4.627,4.477,4.321
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Saudi Arabia,SAU,3.971,3.601,3.331,3.066,2.773,2.507,2.319
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Senegal,SEN,5.448,5.232,5.124,5.081,5.005,4.841,4.625
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Serbia,SRB,1.48,1.59,1.43,1.44,1.45,1.46,1.49
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Seychelles,SYC,2.08,2.06,2.11,2.38,2.37,2.31,2.41
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Sierra Leone,SLE,6.319,6.067,5.747,5.346,4.923,4.561,4.263
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Singapore,SGP,1.6,1.27,1.28,1.22,1.29,1.24,1.14
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Sint Maarten (Dutch part),SXM,..,..,..,1.7,..,..,..
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Slovak Republic,SVK,1.3,1.2,1.25,1.44,1.34,1.4,1.54
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Slovenia,SVN,1.26,1.2,1.31,1.53,1.58,1.57,1.6
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Solomon Islands,SLB,4.719,4.558,4.44,4.399,4.428,4.459,4.403
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Somalia,SOM,7.627,7.451,7.228,6.961,6.664,6.363,6.072
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,South Africa,ZAF,2.694,2.608,2.607,2.608,2.561,2.484,2.405
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,South Sudan,SSD,6.223,5.969,5.721,5.465,5.197,4.937,4.696
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Spain,ESP,1.22,1.3,1.36,1.38,1.32,1.33,1.26
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Sri Lanka,LKA,2.24,2.263,2.278,2.259,2.227,2.213,2.199
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,St. Kitts and Nevis,KNA,..,..,..,..,..,..,..
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,St. Lucia,LCA,2.202,1.826,1.63,1.555,1.508,1.473,1.436
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,St. Martin (French part),MAF,1.83,1.83,1.82,1.82,1.82,1.81,1.81
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,St. Vincent and the Grenadines,VCT,2.379,2.229,2.149,2.092,2.021,1.953,1.891
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Sudan,SDN,5.471,5.268,5.085,4.926,4.771,4.594,4.407
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Suriname,SUR,2.895,2.811,2.717,2.633,2.565,2.494,2.418
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Sweden,SWE,1.54,1.71,1.85,1.94,1.91,1.85,1.76
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Switzerland,CHE,1.5,1.39,1.44,1.5,1.52,1.54,1.52
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Syrian Arab Republic,SYR,4.076,3.899,3.762,3.514,3.181,2.94,2.808
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Tajikistan,TJK,3.967,3.703,3.602,3.596,3.608,3.623,3.585
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Tanzania,TZA,5.689,5.659,5.616,5.489,5.287,5.079,4.892
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Thailand,THA,1.671,1.595,1.56,1.545,1.538,1.538,1.525
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Timor-Leste,TLS,6.113,6.137,5.675,5.004,4.497,4.219,4.023
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Togo,TGO,5.419,5.279,5.123,4.936,4.727,4.516,4.32
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Tonga,TON,4.25,4.202,4.104,3.963,3.815,3.678,3.556
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Trinidad and Tobago,TTO,1.753,1.749,1.78,1.804,1.799,1.767,1.725
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Tunisia,TUN,2.142,2.016,1.999,2.095,2.216,2.251,2.197
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Turkey,TUR,2.503,2.353,2.24,2.168,2.126,2.101,2.069
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Turkmenistan,TKM,2.824,2.698,2.653,2.769,2.936,2.93,2.786
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Turks and Caicos Islands,TCA,..,..,..,..,..,..,..
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Tuvalu,TUV,..,..,..,..,..,..,..
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Uganda,UGA,6.866,6.723,6.516,6.227,5.845,5.394,4.955
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Ukraine,UKR,1.116,1.172,1.31,1.473,1.531,1.506,1.301
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,United Arab Emirates,ARE,2.644,2.337,2.081,1.877,1.708,1.541,1.413
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,United Kingdom,GBR,1.64,1.7,1.82,1.89,1.92,1.8,1.68
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,United States,USA,2.056,2.0475,2.108,2.002,1.8805,1.8435,1.7295
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Uruguay,URY,2.237,2.156,2.07,2.018,2.006,1.997,1.973
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Uzbekistan,UZB,2.58,2.36,2.39,2.53,2.193,2.491,2.604
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Vanuatu,VUT,4.492,4.378,4.261,4.14,4.019,3.898,3.782
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Venezuela, RB",VEN,2.822,2.701,2.595,2.5,2.417,2.34,2.272
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Vietnam,VNM,2.01,1.901,1.899,1.928,1.962,2.014,2.049
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Virgin Islands (U.S.),VIR,2.06,2.07,2.03,2.37,2.06,2.11,2.06
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,West Bank and Gaza,PSE,5.383,4.973,4.699,4.504,4.272,3.955,3.643
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Yemen, Rep.",YEM,6.313,5.778,5.253,4.801,4.439,4.103,3.792
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Zambia,ZMB,6.036,5.915,5.724,5.496,5.233,4.918,4.633
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Zimbabwe,ZWE,3.748,3.725,3.819,3.988,4.058,3.896,3.615
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Africa Eastern and Southern,AFE,5.57342063506595,5.4180547778561,5.26732378342461,5.09384108443779,4.88205815306685,4.64763738028328,4.42026391586983
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Africa Western and Central,AFW,6.03104412808845,5.9086591885799,5.78445201860554,5.65439834596769,5.50378135093046,5.31947341679464,5.11300261660126
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Arab World,ARB,3.84571250984344,3.6264598797368,3.50894819741692,3.47502444929669,3.45066091158188,3.36522111169123,3.23100110132061
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Caribbean small states,CSS,2.43823830142346,2.32884072389941,2.24718402757169,2.17700104960808,2.10645191132354,2.04524901380723,1.99513438593883
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Central Europe and the Baltics,CEB,1.31774313379457,1.25090051033461,1.34183606254527,1.48737353410718,1.41611469271309,1.46237002436237,1.57442274939992
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Early-demographic dividend,EAR,3.34278177015425,3.15165724134927,2.9815801793489,2.82381266883745,2.67945900524956,2.57249804011176,2.48773541757392
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,East Asia & Pacific,EAS,1.85090907409358,1.82302159268485,1.81855560948427,1.81840106059257,1.82841532998948,1.83045224023883,1.82244457725465
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,East Asia & Pacific (excluding high income),EAP,1.89644369808886,1.88163775636524,1.87351791061722,1.86909280118086,1.87029311965653,1.874114605366,1.87567086919773
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,East Asia & Pacific (IDA & IBRD),TEA,1.89527342959503,1.88033645112665,1.87236635974989,1.86818118237378,1.8695386335142,1.87351147751053,1.87531275614857
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Euro area,EMU,1.47089340843436,1.4737679046925,1.52366545972244,1.56445019112123,1.55440972297305,1.54977660081832,1.52383483653529
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Europe & Central Asia,ECS,1.55697208207947,1.56951627991864,1.62008758622537,1.72138882743733,1.74003131565375,1.76491634364109,1.71921941697785
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Europe & Central Asia (excluding high income),ECA,1.64292665601484,1.67104137788261,1.704553255707,1.85567532775644,1.90500305128724,1.9748349438706,1.89835171579758
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Europe & Central Asia (IDA & IBRD),TEC,1.61652599275884,1.62979982630402,1.6658644415152,1.81499417071054,1.85512182586433,1.91764407446197,1.86029345331729
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,European Union,EUU,1.44128713796333,1.43243670157818,1.49446128582065,1.5588667634345,1.53336478201988,1.5373395837111,1.54205939598711
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Fragile and conflict affected situations,FCS,5.44052561167664,5.29594098927544,5.15066298113557,4.99489263990343,4.83373407309355,4.65109508530543,4.46258181065134
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Heavily indebted poor countries (HIPC),HPC,6.06808625257244,5.87674988760382,5.6725329433962,5.44662367251766,5.20142514268811,4.94664616121261,4.69865319338864
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,High income,HIC,1.70711028453039,1.66412345350711,1.71060058899355,1.71394426826184,1.69049688229795,1.66318804586239,1.59406817233529
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,IBRD only,IBD,2.35721641781672,2.2821770066341,2.21934087392181,2.17290439198083,2.12871480163244,2.09821283034084,2.06742420964631
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,IDA & IBRD total,IBT,2.88983300710995,2.80384343137169,2.73210634657219,2.67691657459548,2.62236162888296,2.58344779042624,2.54469353641608
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,IDA blend,IDB,5.17993650867651,4.96033926934301,4.77927313403227,4.6195634830106,4.42940955426541,4.29054330930303,4.1335481494101
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,IDA only,IDX,5.08699407139914,4.87032523589774,4.66201041542462,4.45710919032359,4.26403989471297,4.08380429552199,3.91585153154177
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,IDA total,IDA,5.11775079262545,4.90017220881045,4.70095188257218,4.51113613542721,4.31910776782207,4.15259463489794,3.98809930210354
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Late-demographic dividend,LTE,1.72137374444232,1.69900495573066,1.68738688221595,1.70427396089613,1.71954909263579,1.74034879787143,1.74229729465541
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Latin America & Caribbean,LCN,2.62688993579543,2.45864798726911,2.31593689528245,2.21237021128243,2.14189305879683,2.08444986866009,2.02739306284088
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Latin America & Caribbean (excluding high income),LAC,2.64644007196052,2.47279808383753,2.32258857867405,2.2139098958093,2.14229468852552,2.0871786182497,2.03327997782894
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Latin America & Caribbean (IDA & IBRD),TLA,2.65533297365154,2.48330964534986,2.33596938728696,2.22788599075172,2.15419004034474,2.09569842281943,2.03849405008759
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Least developed countries: UN classification,LDC,5.20345235008658,4.98956314530571,4.77989071973288,4.57181514579802,4.37013454555877,4.1785555402039,4.00014577595758
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Low & middle income,LMY,2.90062038616592,2.81496473028794,2.74201375051706,2.68546944611901,2.63100892681925,2.59205936826887,2.55224474957263
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Low income,LIC,6.03728015795783,5.848174417239,5.63697858940042,5.39712576528783,5.14633995396536,4.89699939896906,4.65268884111613
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Lower middle income,LMC,3.45611532592706,3.2910540112687,3.14833802126487,3.01372564997948,2.88717944382276,2.79257688786467,2.71514734558344
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Middle East & North Africa,MEA,3.19350628199683,2.97930684647135,2.88404935141141,2.8860976455714,2.91068956606516,2.88941191929536,2.80892600122639
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Middle East & North Africa (excluding high income),MNA,3.15375409376191,2.94857894746241,2.86973297210821,2.89812605326657,2.95570298761973,2.96005395028116,2.8871307343527
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Middle East & North Africa (IDA & IBRD),TMN,3.13356935145369,2.93002034400033,2.8523750961165,2.88202792338236,2.94180608806416,2.9490514293318,2.87841414705087
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Middle income,MIC,2.67225987267224,2.58538540009926,2.51206161324188,2.45736741723574,2.40624804876249,2.3721642285613,2.33704751367292
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,North America,NAC,2.00113771259636,1.99640380905906,2.05782608405753,1.969366048074,1.85409165382496,1.81895455100068,1.70616008218429
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,OECD members,OED,1.83389485391653,1.79092793664597,1.8149091687439,1.80607879349863,1.77317315175461,1.74850370199458,1.68665347384857
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Other small states,OSS,3.63849483742547,3.49140382283783,3.37962494710402,3.28765530912628,3.19983751769879,3.12764454253784,3.04997554952617
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Pacific island small states,PSS,3.86195726940208,3.73599365930227,3.63489240783317,3.57859715781714,3.57046422737667,3.5672095000278,3.51522427458484
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Post-demographic dividend,PST,1.61628988547233,1.5972658409333,1.65965968867274,1.67212752876926,1.65253374414004,1.63292430033918,1.55122363723398
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Pre-demographic dividend,PRE,6.1063307313548,5.97475330827196,5.83068099430227,5.65743443246036,5.44030890865472,5.18937844443636,4.93972798066623
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Small states,SST,3.37466648855881,3.24370379111989,3.14690802956696,3.07014193511161,2.99764062581352,2.93809344462045,2.87422486535531
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,South Asia,SAS,3.50721477764956,3.28369797720313,3.06007522847628,2.82267069032602,2.611199416054,2.47007882516082,2.38474821139472
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,South Asia (IDA & IBRD),TSA,3.50721477764956,3.28369797720312,3.06007522847628,2.82267069032602,2.611199416054,2.47007882516082,2.38474821139472
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Sub-Saharan Africa,SSF,5.75529308291301,5.6130469269867,5.47282756051299,5.31651497198753,5.1283182302173,4.91289045925515,4.69321312829709
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Sub-Saharan Africa (excluding high income),SSA,5.75582993196442,5.61355321127897,5.47327224146265,5.31686657404302,5.12861307555198,4.91314984110584,4.69342016968943
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Sub-Saharan Africa (IDA & IBRD),TSS,5.75529308291301,5.6130469269867,5.47282756051299,5.31651497198753,5.1283182302173,4.91289045925515,4.69321312829709
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Upper middle income,UMC,1.86946120645447,1.83994672237414,1.81753354947586,1.82341166451206,1.83288673502189,1.84556753640807,1.8360022333434
-"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,World,WLD,2.69627739852395,2.62496905781507,2.57726313569244,2.53429165672021,2.48892369255613,2.45543225373231,2.41495184624461
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Afghanistan,AFG,..,..,..,..,..,..,3.80719375610352
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Albania,ALB,..,..,..,..,..,..,9.39986896514893
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Algeria,DZA,..,..,..,..,..,..,7.42757177352905
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,American Samoa,ASM,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Andorra,AND,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Angola,AGO,..,..,..,..,..,..,3.62558841705322
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Antigua and Barbuda,ATG,..,..,..,..,..,..,8.32785415649414
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Argentina,ARG,..,..,..,..,..,..,8.79666709899902
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Armenia,ARM,..,..,..,..,..,..,8.3281831741333
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Aruba,ABW,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Australia,AUS,..,..,..,..,..,..,11.5158233642578
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Austria,AUT,..,..,..,..,..,..,11.2909240722656
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Azerbaijan,AZE,..,..,..,..,..,..,9.54385089874268
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,"Bahamas, The",BHS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Bahrain,BHR,..,..,..,..,..,..,9.98448848724365
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Bangladesh,BGD,..,..,..,..,..,..,6.22562980651855
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Barbados,BRB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Belarus,BLR,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Belgium,BEL,..,..,..,..,..,..,11.2338237762451
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Belize,BLZ,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Benin,BEN,..,..,..,..,..,..,5.39248847961426
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Bermuda,BMU,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Bhutan,BTN,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Bolivia,BOL,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Bosnia and Herzegovina,BIH,..,..,..,..,..,..,8.67932415008545
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Botswana,BWA,..,..,..,..,..,..,5.45873594284058
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Brazil,BRA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,British Virgin Islands,VGB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Brunei Darussalam,BRN,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Bulgaria,BGR,..,..,..,..,..,..,9.91541481018066
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Burkina Faso,BFA,..,..,..,..,..,..,4.28995752334595
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Burundi,BDI,..,..,..,..,..,..,5.66486501693726
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Cabo Verde,CPV,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Cambodia,KHM,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Cameroon,CMR,..,..,..,..,..,..,5.09313011169434
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Canada,CAN,..,..,..,..,..,..,11.8244171142578
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Cayman Islands,CYM,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Central African Republic,CAF,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Chad,TCD,..,..,..,..,..,..,2.31434273719788
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Channel Islands,CHI,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Chile,CHL,..,..,..,..,..,..,9.70554733276367
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,China,CHN,..,..,..,..,..,..,9.23676109313965
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Colombia,COL,..,..,..,..,..,..,8.59073734283447
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Comoros,COM,..,..,..,..,..,..,5.0314130783081
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,"Congo, Dem. Rep.",COD,..,..,..,..,..,..,4.33589172363281
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,"Congo, Rep.",COG,..,..,..,..,..,..,5.37640857696533
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Costa Rica,CRI,..,..,..,..,..,..,8.53534030914307
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Cote d'Ivoire,CIV,..,..,..,..,..,..,4.21960783004761
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Croatia,HRV,..,..,..,..,..,..,10.9131736755371
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Cuba,CUB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Curacao,CUW,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Cyprus,CYP,..,..,..,..,..,..,10.9055271148682
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Czech Republic,CZE,..,..,..,..,..,..,11.3946142196655
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Denmark,DNK,..,..,..,..,..,..,11.4714860916138
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Djibouti,DJI,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Dominica,DMA,..,..,..,..,..,..,8.46479511260986
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Dominican Republic,DOM,..,..,..,..,..,..,6.91364192962646
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Ecuador,ECU,..,..,..,..,..,..,8.90989017486572
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,"Egypt, Arab Rep.",EGY,..,..,..,..,..,..,6.77243995666504
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,El Salvador,SLV,..,..,..,..,..,..,7.69150304794312
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Equatorial Guinea,GNQ,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Eritrea,ERI,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Estonia,EST,..,..,..,..,..,..,11.8030042648315
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Eswatini,SWZ,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Ethiopia,ETH,..,..,..,..,..,..,4.27878093719482
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Faroe Islands,FRO,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Fiji,FJI,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Finland,FIN,..,..,..,..,..,..,12.2769508361816
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,France,FRA,..,..,..,..,..,..,11.2410850524902
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,French Polynesia,PYF,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Gabon,GAB,..,..,..,..,..,..,6.2082691192627
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,"Gambia, The",GMB,..,..,..,..,..,..,5.18600177764893
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Georgia,GEO,..,..,..,..,..,..,9.48947048187256
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Germany,DEU,..,..,..,..,..,..,11.2860317230225
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Ghana,GHA,..,..,..,..,..,..,5.83620357513428
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Gibraltar,GIB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Greece,GRC,..,..,..,..,..,..,10.2435550689697
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Greenland,GRL,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Grenada,GRD,..,..,..,..,..,..,8.28743171691895
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Guam,GUM,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Guatemala,GTM,..,..,..,..,..,..,6.2174506187439
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Guinea,GIN,..,..,..,..,..,..,3.94857859611511
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Guinea-Bissau,GNB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Guyana,GUY,..,..,..,..,..,..,7.01596689224243
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Haiti,HTI,..,..,..,..,..,..,6.26985454559326
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Honduras,HND,..,..,..,..,..,..,6.26761674880981
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,12.3380708694458
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Hungary,HUN,..,..,..,..,..,..,10.7274236679077
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Iceland,ISL,..,..,..,..,..,..,10.9333524703979
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,India,IND,..,..,..,..,..,..,6.98165988922119
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Indonesia,IDN,..,..,..,..,..,..,8.09847259521484
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,"Iran, Islamic Rep.",IRN,..,..,..,..,..,..,8.43418216705322
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Iraq,IRQ,..,..,..,..,..,..,4.24267101287842
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Ireland,IRL,..,..,..,..,..,..,11.9699859619141
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Isle of Man,IMN,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Israel,ISR,..,..,..,..,..,..,11.2632284164429
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Italy,ITA,..,..,..,..,..,..,10.8969583511353
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Jamaica,JAM,..,..,..,..,..,..,7.64113664627075
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Japan,JPN,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Jordan,JOR,..,..,..,..,..,..,8.01914405822754
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Kazakhstan,KAZ,..,..,..,..,..,..,12.0164051055908
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Kenya,KEN,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Kiribati,KIR,..,..,..,..,..,..,7.45959424972534
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,"Korea, Dem. People's Rep.",PRK,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,"Korea, Rep.",KOR,..,..,..,..,..,..,12.3157024383545
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Kosovo,XKX,..,..,..,..,..,..,8.06910037994385
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Kuwait,KWT,..,..,..,..,..,..,7.88888502120972
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Kyrgyz Republic,KGZ,..,..,..,..,..,..,8.79069709777832
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Lao PDR,LAO,..,..,..,..,..,..,6.34678649902344
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Latvia,LVA,..,..,..,..,..,..,11.8333511352539
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Lebanon,LBN,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Lesotho,LSO,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Liberia,LBR,..,..,..,..,..,..,2.18399834632873
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Libya,LBY,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Liechtenstein,LIE,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Lithuania,LTU,..,..,..,..,..,..,11.5633735656738
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Luxembourg,LUX,..,..,..,..,..,..,9.97618293762207
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,"Macao SAR, China",MAC,..,..,..,..,..,..,11.3364562988281
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Madagascar,MDG,..,..,..,..,..,..,4.84533452987671
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Malawi,MWI,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Malaysia,MYS,..,..,..,..,..,..,9.60183334350586
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Maldives,MDV,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Mali,MLI,..,..,..,..,..,..,2.66634297370911
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Malta,MLT,..,..,..,..,..,..,10.4342861175537
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Marshall Islands,MHL,..,..,..,..,..,..,5.32188081741333
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Mauritania,MRT,..,..,..,..,..,..,4.15528297424316
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Mauritius,MUS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Mexico,MEX,..,..,..,..,..,..,8.91710948944092
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,"Micronesia, Fed. Sts.",FSM,..,..,..,..,..,..,6.42887544631958
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Moldova,MDA,..,..,..,..,..,..,8.45910263061523
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Monaco,MCO,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Mongolia,MNG,..,..,..,..,..,..,9.2112979888916
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Montenegro,MNE,..,..,..,..,..,..,8.88395404815674
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Morocco,MAR,..,..,..,..,..,..,6.26231527328491
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Mozambique,MOZ,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Myanmar,MMR,..,..,..,..,..,..,6.7844762802124
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Namibia,NAM,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Nauru,NRU,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Nepal,NPL,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Netherlands,NLD,..,..,..,..,..,..,11.8534126281738
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,New Caledonia,NCL,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,New Zealand,NZL,..,..,..,..,..,..,11.4978752136231
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Nicaragua,NIC,..,..,..,..,..,..,6.96400165557861
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Niger,NER,..,..,..,..,..,..,2.44534373283386
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Nigeria,NGA,..,..,..,..,..,..,4.98387432098389
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,North Macedonia,MKD,..,..,..,..,..,..,6.99830436706543
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Northern Mariana Islands,MNP,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Norway,NOR,..,..,..,..,..,..,11.3299255371094
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Oman,OMN,..,..,..,..,..,..,9.29783248901367
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Pakistan,PAK,..,..,..,..,..,..,4.766197681427
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Palau,PLW,..,..,..,..,..,..,8.59907627105713
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Panama,PAN,..,..,..,..,..,..,6.82751369476318
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Papua New Guinea,PNG,..,..,..,..,..,..,5.66039037704468
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Paraguay,PRY,..,..,..,..,..,..,6.90115451812744
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Peru,PER,..,..,..,..,..,..,8.34506893157959
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Philippines,PHL,..,..,..,..,..,..,8.73092079162598
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Poland,POL,..,..,..,..,..,..,11.6239776611328
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Portugal,PRT,..,..,..,..,..,..,11.4746341705322
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Puerto Rico,PRI,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Qatar,QAT,..,..,..,..,..,..,9.11959171295166
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Romania,ROU,..,..,..,..,..,..,8.74332523345947
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Russian Federation,RUS,..,..,..,..,..,..,11.8311634063721
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Rwanda,RWA,..,..,..,..,..,..,4.07757425308228
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Samoa,WSM,..,..,..,..,..,..,7.01764249801636
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,San Marino,SMR,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Sao Tome and Principe,STP,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Saudi Arabia,SAU,..,..,..,..,..,..,8.56523418426514
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Senegal,SEN,..,..,..,..,..,..,5.12693309783935
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Serbia,SRB,..,..,..,..,..,..,11.2858743667603
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Seychelles,SYC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Sierra Leone,SLE,..,..,..,..,..,..,4.66241502761841
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Singapore,SGP,..,..,..,..,..,..,13.0060482025147
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Sint Maarten (Dutch part),SXM,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Slovak Republic,SVK,..,..,..,..,..,..,10.1739387512207
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Slovenia,SVN,..,..,..,..,..,..,11.8064918518066
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Solomon Islands,SLB,..,..,..,..,..,..,5.27785968780518
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Somalia,SOM,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,South Africa,ZAF,..,..,..,..,..,..,5.80576181411743
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,South Sudan,SSD,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Spain,ESP,..,..,..,..,..,..,10.7497282028198
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Sri Lanka,LKA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,St. Kitts and Nevis,KNA,..,..,..,..,..,..,8.14675998687744
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,St. Lucia,LCA,..,..,..,..,..,..,8.56311988830566
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,St. Martin (French part),MAF,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,St. Vincent and the Grenadines,VCT,..,..,..,..,..,..,8.1140022277832
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Sudan,SDN,..,..,..,..,..,..,4.32574987411499
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Suriname,SUR,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Sweden,SWE,..,..,..,..,..,..,11.8151588439941
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Switzerland,CHE,..,..,..,..,..,..,11.0957632064819
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Syrian Arab Republic,SYR,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Tajikistan,TJK,..,..,..,..,..,..,7.48287439346313
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Tanzania,TZA,..,..,..,..,..,..,4.61734533309937
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Thailand,THA,..,..,..,..,..,..,8.98126316070557
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Timor-Leste,TLS,..,..,..,..,..,..,6.57290410995483
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Togo,TGO,..,..,..,..,..,..,5.59247493743896
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Tonga,TON,..,..,..,..,..,..,7.3278112411499
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Trinidad and Tobago,TTO,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Tunisia,TUN,..,..,..,..,..,..,6.77009439468384
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Turkey,TUR,..,..,..,..,..,..,8.88948535919189
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Turkmenistan,TKM,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Turks and Caicos Islands,TCA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Tuvalu,TUV,..,..,..,..,..,..,6.06742858886719
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Uganda,UGA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Ukraine,UKR,..,..,..,..,..,..,10.1601781845093
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,United Arab Emirates,ARE,..,..,..,..,..,..,9.77793025970459
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,United Kingdom,GBR,..,..,..,..,..,..,11.4901657104492
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,United States,USA,..,..,..,..,..,..,10.8333539962769
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Uruguay,URY,..,..,..,..,..,..,8.87076854705811
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Uzbekistan,UZB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Vanuatu,VUT,..,..,..,..,..,..,5.5253734588623
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,"Venezuela, RB",VEN,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Vietnam,VNM,..,..,..,..,..,..,11.0107984542847
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Virgin Islands (U.S.),VIR,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,West Bank and Gaza,PSE,..,..,..,..,..,..,8.35953617095947
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,"Yemen, Rep.",YEM,..,..,..,..,..,..,3.81997203826904
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Zambia,ZMB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Zimbabwe,ZWE,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Africa Eastern and Southern,AFE,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Africa Western and Central,AFW,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Arab World,ARB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Caribbean small states,CSS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Central Europe and the Baltics,CEB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Early-demographic dividend,EAR,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,East Asia & Pacific,EAS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,East Asia & Pacific (excluding high income),EAP,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,East Asia & Pacific (IDA & IBRD),TEA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Euro area,EMU,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Europe & Central Asia,ECS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Europe & Central Asia (excluding high income),ECA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Europe & Central Asia (IDA & IBRD),TEC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,European Union,EUU,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Fragile and conflict affected situations,FCS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Heavily indebted poor countries (HIPC),HPC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,High income,HIC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,IBRD only,IBD,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,IDA & IBRD total,IBT,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,IDA blend,IDB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,IDA only,IDX,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,IDA total,IDA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Late-demographic dividend,LTE,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Latin America & Caribbean,LCN,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Latin America & Caribbean (excluding high income),LAC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Latin America & Caribbean (IDA & IBRD),TLA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Least developed countries: UN classification,LDC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Low & middle income,LMY,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Low income,LIC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Lower middle income,LMC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Middle East & North Africa,MEA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Middle East & North Africa (excluding high income),MNA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Middle East & North Africa (IDA & IBRD),TMN,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Middle income,MIC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,North America,NAC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,OECD members,OED,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Other small states,OSS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Pacific island small states,PSS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Post-demographic dividend,PST,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Pre-demographic dividend,PRE,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Small states,SST,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,South Asia,SAS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,South Asia (IDA & IBRD),TSA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Sub-Saharan Africa,SSF,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Sub-Saharan Africa (excluding high income),SSA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Sub-Saharan Africa (IDA & IBRD),TSS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,Upper middle income,UMC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,World,WLD,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Afghanistan,AFG,..,..,..,..,..,..,5.46374702453613
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Albania,ALB,..,..,..,..,..,..,8.34502792358398
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Algeria,DZA,..,..,..,..,..,..,6.69645929336548
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,American Samoa,ASM,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Andorra,AND,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Angola,AGO,..,..,..,..,..,..,4.83345651626587
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Antigua and Barbuda,ATG,..,..,..,..,..,..,7.87092733383179
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Argentina,ARG,..,..,..,..,..,..,8.68136882781982
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Armenia,ARM,..,..,..,..,..,..,7.8404016494751
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Aruba,ABW,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Australia,AUS,..,..,..,..,..,..,11.3038673400879
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Austria,AUT,..,..,..,..,..,..,11.2629594802856
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Azerbaijan,AZE,..,..,..,..,..,..,9.22323322296143
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,"Bahamas, The",BHS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Bahrain,BHR,..,..,..,..,..,..,9.07497787475586
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Bangladesh,BGD,..,..,..,..,..,..,5.7743124961853
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Barbados,BRB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Belarus,BLR,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Belgium,BEL,..,..,..,..,..,..,11.2443714141846
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Belize,BLZ,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Benin,BEN,..,..,..,..,..,..,5.88792276382446
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Bermuda,BMU,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Bhutan,BTN,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Bolivia,BOL,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Bosnia and Herzegovina,BIH,..,..,..,..,..,..,8.6040735244751
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Botswana,BWA,..,..,..,..,..,..,4.70308113098145
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Brazil,BRA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,British Virgin Islands,VGB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Brunei Darussalam,BRN,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Bulgaria,BGR,..,..,..,..,..,..,9.69442081451416
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Burkina Faso,BFA,..,..,..,..,..,..,4.41545295715332
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Burundi,BDI,..,..,..,..,..,..,5.122971534729
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Cabo Verde,CPV,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Cambodia,KHM,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Cameroon,CMR,..,..,..,..,..,..,5.485267162323
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Canada,CAN,..,..,..,..,..,..,11.7459392547607
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Cayman Islands,CYM,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Central African Republic,CAF,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Chad,TCD,..,..,..,..,..,..,3.40603470802307
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Channel Islands,CHI,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Chile,CHL,..,..,..,..,..,..,9.6746711730957
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,China,CHN,..,..,..,..,..,..,9.10990333557129
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Colombia,COL,..,..,..,..,..,..,8.45673370361328
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Comoros,COM,..,..,..,..,..,..,5.12625169754028
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,"Congo, Dem. Rep.",COD,..,..,..,..,..,..,4.73288059234619
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,"Congo, Rep.",COG,..,..,..,..,..,..,5.18525171279907
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Costa Rica,CRI,..,..,..,..,..,..,8.46972370147705
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Cote d'Ivoire,CIV,..,..,..,..,..,..,4.88156604766846
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Croatia,HRV,..,..,..,..,..,..,10.709508895874
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Cuba,CUB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Curacao,CUW,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Cyprus,CYP,..,..,..,..,..,..,10.9283847808838
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Czech Republic,CZE,..,..,..,..,..,..,11.2799825668335
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Denmark,DNK,..,..,..,..,..,..,11.2796087265015
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Djibouti,DJI,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Dominica,DMA,..,..,..,..,..,..,7.89644527435303
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Dominican Republic,DOM,..,..,..,..,..,..,6.45455980300903
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Ecuador,ECU,..,..,..,..,..,..,8.60152721405029
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,"Egypt, Arab Rep.",EGY,..,..,..,..,..,..,6.24020719528198
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,El Salvador,SLV,..,..,..,..,..,..,7.587721824646
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Equatorial Guinea,GNQ,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Eritrea,ERI,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Estonia,EST,..,..,..,..,..,..,11.5890035629272
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Eswatini,SWZ,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Ethiopia,ETH,..,..,..,..,..,..,4.69781637191772
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Faroe Islands,FRO,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Fiji,FJI,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Finland,FIN,..,..,..,..,..,..,11.8299837112427
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,France,FRA,..,..,..,..,..,..,11.1042518615723
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,French Polynesia,PYF,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Gabon,GAB,..,..,..,..,..,..,5.80859851837158
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,"Gambia, The",GMB,..,..,..,..,..,..,4.81980133056641
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Georgia,GEO,..,..,..,..,..,..,8.85399532318115
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Germany,DEU,..,..,..,..,..,..,11.2443723678589
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Ghana,GHA,..,..,..,..,..,..,5.81801652908325
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Gibraltar,GIB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Greece,GRC,..,..,..,..,..,..,9.91701126098633
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Greenland,GRL,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Grenada,GRD,..,..,..,..,..,..,7.23785305023193
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Guam,GUM,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Guatemala,GTM,..,..,..,..,..,..,6.1844916343689
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Guinea,GIN,..,..,..,..,..,..,5.26708126068115
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Guinea-Bissau,GNB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Guyana,GUY,..,..,..,..,..,..,6.54274749755859
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Haiti,HTI,..,..,..,..,..,..,6.04396867752075
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Honduras,HND,..,..,..,..,..,..,6.00419998168945
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,11.7782726287842
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Hungary,HUN,..,..,..,..,..,..,10.6581735610962
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Iceland,ISL,..,..,..,..,..,..,10.4719944000244
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,India,IND,..,..,..,..,..,..,6.87292814254761
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Indonesia,IDN,..,..,..,..,..,..,7.77980661392212
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,"Iran, Islamic Rep.",IRN,..,..,..,..,..,..,7.98024606704712
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Iraq,IRQ,..,..,..,..,..,..,3.80146670341492
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Ireland,IRL,..,..,..,..,..,..,11.9479398727417
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Isle of Man,IMN,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Israel,ISR,..,..,..,..,..,..,10.917501449585
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Italy,ITA,..,..,..,..,..,..,10.8895130157471
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Jamaica,JAM,..,..,..,..,..,..,6.74864053726196
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Japan,JPN,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Jordan,JOR,..,..,..,..,..,..,7.08382940292358
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Kazakhstan,KAZ,..,..,..,..,..,..,11.591875076294
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Kenya,KEN,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Kiribati,KIR,..,..,..,..,..,..,6.3203501701355
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,"Korea, Dem. People's Rep.",PRK,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,"Korea, Rep.",KOR,..,..,..,..,..,..,12.1857709884644
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Kosovo,XKX,..,..,..,..,..,..,7.76534032821655
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Kuwait,KWT,..,..,..,..,..,..,6.99153184890747
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Kyrgyz Republic,KGZ,..,..,..,..,..,..,8.49523830413818
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Lao PDR,LAO,..,..,..,..,..,..,6.2682318687439
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Latvia,LVA,..,..,..,..,..,..,11.2848720550537
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Lebanon,LBN,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Lesotho,LSO,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Liberia,LBR,..,..,..,..,..,..,2.22594594955444
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Libya,LBY,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Liechtenstein,LIE,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Lithuania,LTU,..,..,..,..,..,..,11.1778373718262
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Luxembourg,LUX,..,..,..,..,..,..,9.88611888885498
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,"Macao SAR, China",MAC,..,..,..,..,..,..,10.8259086608887
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Madagascar,MDG,..,..,..,..,..,..,4.58331394195557
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Malawi,MWI,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Malaysia,MYS,..,..,..,..,..,..,9.0842456817627
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Maldives,MDV,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Mali,MLI,..,..,..,..,..,..,3.04879665374756
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Malta,MLT,..,..,..,..,..,..,9.96637439727783
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Marshall Islands,MHL,..,..,..,..,..,..,4.87941694259644
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Mauritania,MRT,..,..,..,..,..,..,3.89531898498535
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Mauritius,MUS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Mexico,MEX,..,..,..,..,..,..,8.71205139160156
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,"Micronesia, Fed. Sts.",FSM,..,..,..,..,..,..,5.97188091278076
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Moldova,MDA,..,..,..,..,..,..,8.04489231109619
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Monaco,MCO,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Mongolia,MNG,..,..,..,..,..,..,9.1778450012207
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Montenegro,MNE,..,..,..,..,..,..,8.55782127380371
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Morocco,MAR,..,..,..,..,..,..,5.85772180557251
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Mozambique,MOZ,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Myanmar,MMR,..,..,..,..,..,..,6.56788396835327
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Namibia,NAM,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Nauru,NRU,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Nepal,NPL,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Netherlands,NLD,..,..,..,..,..,..,11.6653747558594
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,New Caledonia,NCL,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,New Zealand,NZL,..,..,..,..,..,..,11.1735410690308
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Nicaragua,NIC,..,..,..,..,..,..,6.54145812988281
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Niger,NER,..,..,..,..,..,..,2.92918610572815
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Nigeria,NGA,..,..,..,..,..,..,5.09001493453979
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,North Macedonia,MKD,..,..,..,..,..,..,6.64861392974854
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Northern Mariana Islands,MNP,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Norway,NOR,..,..,..,..,..,..,11.092267036438
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Oman,OMN,..,..,..,..,..,..,8.20018100738525
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Pakistan,PAK,..,..,..,..,..,..,5.35901117324829
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Palau,PLW,..,..,..,..,..,..,7.9611759185791
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Panama,PAN,..,..,..,..,..,..,6.79558038711548
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Papua New Guinea,PNG,..,..,..,..,..,..,6.13268423080444
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Paraguay,PRY,..,..,..,..,..,..,7.05196571350098
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Peru,PER,..,..,..,..,..,..,8.55131912231445
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Philippines,PHL,..,..,..,..,..,..,7.98316478729248
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Poland,POL,..,..,..,..,..,..,11.4160194396973
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Portugal,PRT,..,..,..,..,..,..,11.649881362915
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Puerto Rico,PRI,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Qatar,QAT,..,..,..,..,..,..,8.36434745788574
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Romania,ROU,..,..,..,..,..,..,8.48689937591553
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Russian Federation,RUS,..,..,..,..,..,..,11.7211236953735
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Rwanda,RWA,..,..,..,..,..,..,3.70426917076111
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Samoa,WSM,..,..,..,..,..,..,6.30175876617432
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,San Marino,SMR,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Sao Tome and Principe,STP,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Saudi Arabia,SAU,..,..,..,..,..,..,7.47254037857056
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Senegal,SEN,..,..,..,..,..,..,4.61424779891968
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Serbia,SRB,..,..,..,..,..,..,11.1363334655762
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Seychelles,SYC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Sierra Leone,SLE,..,..,..,..,..,..,4.65239191055298
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Singapore,SGP,..,..,..,..,..,..,12.8658990859985
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Sint Maarten (Dutch part),SXM,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Slovak Republic,SVK,..,..,..,..,..,..,10.0338258743286
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Slovenia,SVN,..,..,..,..,..,..,11.4347047805786
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Solomon Islands,SLB,..,..,..,..,..,..,4.77235412597656
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Somalia,SOM,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,South Africa,ZAF,..,..,..,..,..,..,5.3231463432312
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,South Sudan,SSD,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Spain,ESP,..,..,..,..,..,..,10.5819721221924
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Sri Lanka,LKA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,St. Kitts and Nevis,KNA,..,..,..,..,..,..,8.20849227905273
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,St. Lucia,LCA,..,..,..,..,..,..,7.84580230712891
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,St. Martin (French part),MAF,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,St. Vincent and the Grenadines,VCT,..,..,..,..,..,..,7.49322652816772
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Sudan,SDN,..,..,..,..,..,..,4.28337383270264
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Suriname,SUR,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Sweden,SWE,..,..,..,..,..,..,11.5991678237915
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Switzerland,CHE,..,..,..,..,..,..,11.128888130188
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Syrian Arab Republic,SYR,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Tajikistan,TJK,..,..,..,..,..,..,7.94444513320923
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Tanzania,TZA,..,..,..,..,..,..,4.33231830596924
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Thailand,THA,..,..,..,..,..,..,8.69326972961426
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Timor-Leste,TLS,..,..,..,..,..,..,6.03438806533813
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Togo,TGO,..,..,..,..,..,..,5.8188304901123
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Tonga,TON,..,..,..,..,..,..,6.41959953308105
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Trinidad and Tobago,TTO,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Tunisia,TUN,..,..,..,..,..,..,5.98687982559204
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Turkey,TUR,..,..,..,..,..,..,8.84084892272949
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Turkmenistan,TKM,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Turks and Caicos Islands,TCA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Tuvalu,TUV,..,..,..,..,..,..,5.53873586654663
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Uganda,UGA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Ukraine,UKR,..,..,..,..,..,..,10.0858783721924
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,United Arab Emirates,ARE,..,..,..,..,..,..,9.63092231750488
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,United Kingdom,GBR,..,..,..,..,..,..,11.425371170044
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,United States,USA,..,..,..,..,..,..,10.728461265564
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Uruguay,URY,..,..,..,..,..,..,8.42920398712158
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Uzbekistan,UZB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Vanuatu,VUT,..,..,..,..,..,..,5.22655582427979
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,"Venezuela, RB",VEN,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Vietnam,VNM,..,..,..,..,..,..,10.2907304763794
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Virgin Islands (U.S.),VIR,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,West Bank and Gaza,PSE,..,..,..,..,..,..,7.42366933822632
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,"Yemen, Rep.",YEM,..,..,..,..,..,..,4.52334213256836
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Zambia,ZMB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Zimbabwe,ZWE,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Africa Eastern and Southern,AFE,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Africa Western and Central,AFW,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Arab World,ARB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Caribbean small states,CSS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Central Europe and the Baltics,CEB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Early-demographic dividend,EAR,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,East Asia & Pacific,EAS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,East Asia & Pacific (excluding high income),EAP,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,East Asia & Pacific (IDA & IBRD),TEA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Euro area,EMU,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Europe & Central Asia,ECS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Europe & Central Asia (excluding high income),ECA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Europe & Central Asia (IDA & IBRD),TEC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,European Union,EUU,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Fragile and conflict affected situations,FCS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Heavily indebted poor countries (HIPC),HPC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,High income,HIC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,IBRD only,IBD,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,IDA & IBRD total,IBT,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,IDA blend,IDB,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,IDA only,IDX,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,IDA total,IDA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Late-demographic dividend,LTE,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Latin America & Caribbean,LCN,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Latin America & Caribbean (excluding high income),LAC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Latin America & Caribbean (IDA & IBRD),TLA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Least developed countries: UN classification,LDC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Low & middle income,LMY,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Low income,LIC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Lower middle income,LMC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Middle East & North Africa,MEA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Middle East & North Africa (excluding high income),MNA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Middle East & North Africa (IDA & IBRD),TMN,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Middle income,MIC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,North America,NAC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,OECD members,OED,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Other small states,OSS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Pacific island small states,PSS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Post-demographic dividend,PST,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Pre-demographic dividend,PRE,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Small states,SST,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,South Asia,SAS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,South Asia (IDA & IBRD),TSA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Sub-Saharan Africa,SSF,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Sub-Saharan Africa (excluding high income),SSA,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Sub-Saharan Africa (IDA & IBRD),TSS,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,Upper middle income,UMC,..,..,..,..,..,..,..
-"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,World,WLD,..,..,..,..,..,..,..
+Country Name,Country Code,Series Name,Series Code,2000 [YR2000],2003 [YR2003],2006 [YR2006],2009 [YR2009],2012 [YR2012],2015 [YR2015],2018 [YR2018]
+Afghanistan,AFG,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,7.485,7.148,6.722,6.18,5.562,4.976,4.473
+Albania,ALB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.157,1.897,1.704,1.652,1.684,1.677,1.617
+Algeria,DZA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.514,2.405,2.569,2.799,2.952,3.043,3.023
+American Samoa,ASM,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,..,..,..,..,..,..,..
+Andorra,AND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,..,..,1.24,1.19,..,..,..
+Angola,AGO,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.639,6.533,6.419,6.26,6.039,5.774,5.519
+Antigua and Barbuda,ATG,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.2,2.14,2.048,1.993,1.993,2.003,1.994
+Argentina,ARG,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.542,2.461,2.397,2.355,2.33,2.301,2.261
+Armenia,ARM,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.648,1.645,1.69,1.719,1.725,1.738,1.755
+Aruba,ABW,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.872,1.803,1.765,1.761,1.795,1.854,1.896
+Australia,AUS,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.756,1.748,1.908,1.971,1.92,1.814,1.74
+Austria,AUT,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.36,1.38,1.41,1.39,1.44,1.49,1.47
+Azerbaijan,AZE,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2,1.9,1.97,1.82,2,1.94,1.73
+"Bahamas, The",BHS,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.073,1.889,1.869,1.877,1.828,1.782,1.752
+Bahrain,BHR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.795,2.59,2.363,2.197,2.118,2.056,1.987
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.169,2.876,2.604,2.382,2.228,2.12,2.036
+Barbados,BRB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.775,1.797,1.775,1.711,1.645,1.614,1.619
+Belarus,BLR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.317,1.232,1.335,1.509,1.62,1.724,1.448
+Belgium,BEL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.67,1.67,1.8,1.84,1.8,1.7,1.62
+Belize,BLZ,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.601,3.286,2.98,2.749,2.588,2.439,2.307
+Benin,BEN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.962,5.754,5.576,5.416,5.246,5.047,4.836
+Bermuda,BMU,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.74,1.8,1.76,1.76,1.6,1.4,1.3
+Bhutan,BTN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.515,3.037,2.679,2.387,2.159,2.037,1.975
+Bolivia,BOL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.051,3.798,3.533,3.287,3.076,2.886,2.73
+Bosnia and Herzegovina,BIH,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.497,1.33,1.288,1.311,1.313,1.296,1.265
+Botswana,BWA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.304,3.159,3.066,3.026,3.011,2.968,2.874
+Brazil,BRA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.3,2.097,1.925,1.818,1.771,1.753,1.73
+British Virgin Islands,VGB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.346,2.154,1.969,1.921,1.973,1.947,1.848
+Bulgaria,BGR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.26,1.26,1.44,1.66,1.5,1.53,1.56
+Burkina Faso,BFA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.592,6.403,6.192,5.953,5.693,5.436,5.189
+Burundi,BDI,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.92,6.736,6.515,6.267,5.994,5.697,5.41
+Cabo Verde,CPV,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.539,3.151,2.839,2.629,2.5,2.385,2.274
+Cambodia,KHM,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.805,3.406,3.155,2.947,2.739,2.593,2.503
+Cameroon,CMR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.58,5.431,5.309,5.167,4.984,4.777,4.572
+Canada,CAN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.51,1.54,1.61,1.68,1.62,1.6,1.5
+Cayman Islands,CYM,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,..,..,..,..,..,..,..
+Central African Republic,CAF,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.5,5.436,5.353,5.254,5.123,4.941,4.721
+Chad,TCD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,7.354,7.212,6.992,6.699,6.372,6.049,5.747
+Channel Islands,CHI,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.526,1.492,1.527,1.578,1.58,1.541,1.51
+Chile,CHL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.055,1.943,1.901,1.892,1.849,1.75,1.649
+China,CHN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.596,1.604,1.615,1.623,1.639,1.665,1.69
+Colombia,COL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.572,2.395,2.198,2.033,1.93,1.863,1.807
+Comoros,COM,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.384,5.167,4.984,4.813,4.628,4.419,4.205
+"Congo, Dem. Rep.",COD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.751,6.718,6.671,6.587,6.432,6.203,5.919
+"Congo, Rep.",COG,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.871,4.846,4.82,4.784,4.712,4.587,4.428
+Costa Rica,CRI,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.363,2.124,1.978,1.903,1.853,1.806,1.754
+Cote d'Ivoire,CIV,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.87,5.63,5.376,5.152,4.974,4.813,4.649
+Croatia,HRV,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.39,1.41,1.47,1.5,1.52,1.41,1.47
+Cuba,CUB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.603,1.583,1.576,1.624,1.683,1.674,1.618
+Curacao,CUW,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,..,..,2.1,2.1,2.2,1.9,1.7
+Cyprus,CYP,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.716,1.576,1.498,1.443,1.39,1.354,1.329
+Czech Republic,CZE,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.15,1.18,1.34,1.51,1.45,1.57,1.71
+Denmark,DNK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.77,1.76,1.85,1.84,1.73,1.71,1.73
+Djibouti,DJI,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.484,4.118,3.739,3.397,3.131,2.912,2.728
+Dominica,DMA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,..,1.9,..,..,..,..,..
+Dominican Republic,DOM,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.839,2.725,2.619,2.528,2.46,2.405,2.346
+Ecuador,ECU,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.102,2.911,2.753,2.643,2.567,2.499,2.427
+"Egypt, Arab Rep.",EGY,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.34,3.106,3.013,3.154,3.377,3.436,3.326
+El Salvador,SLV,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.022,2.691,2.465,2.31,2.187,2.101,2.039
+Equatorial Guinea,GNQ,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.834,5.675,5.498,5.288,5.04,4.774,4.513
+Eritrea,ERI,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.321,5.073,4.881,4.656,4.407,4.217,4.056
+Estonia,EST,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.36,1.37,1.58,1.7,1.56,1.58,1.67
+Eswatini,SWZ,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.915,3.745,3.617,3.421,3.195,3.065,2.99
+Ethiopia,ETH,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.543,6.112,5.667,5.26,4.901,4.565,4.247
+Faroe Islands,FRO,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.6,2.5,2.5,2.4,2.6,2.4,2.5
+Fiji,FJI,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.09,2.944,2.807,2.75,2.773,2.8,2.774
+Finland,FIN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.73,1.76,1.84,1.86,1.8,1.65,1.41
+France,FRA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.89,1.89,2,2,2.01,1.96,1.87
+French Polynesia,PYF,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.463,2.331,2.217,2.121,2.048,1.99,1.941
+Gabon,GAB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.533,4.332,4.223,4.164,4.113,4.064,3.969
+"Gambia, The",GMB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.879,5.787,5.696,5.612,5.518,5.39,5.219
+Georgia,GEO,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.608,1.599,1.711,1.866,1.984,2.05,2.06
+Germany,DEU,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.38,1.34,1.33,1.36,1.41,1.5,1.57
+Ghana,GHA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.826,4.612,4.438,4.311,4.192,4.041,3.87
+Gibraltar,GIB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,..,..,..,..,..,..,..
+Greece,GRC,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.25,1.29,1.4,1.5,1.34,1.33,1.35
+Greenland,GRL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.329,2.372,2.256,2.359,2.019,2.01,2
+Grenada,GRD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.582,2.409,2.321,2.262,2.194,2.126,2.063
+Guam,GUM,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.824,2.718,2.598,2.509,2.45,2.383,2.313
+Guatemala,GTM,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.598,4.245,3.833,3.471,3.219,3.029,2.87
+Guinea,GIN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.082,5.877,5.653,5.417,5.175,4.933,4.7
+Guinea-Bissau,GNB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.82,5.555,5.312,5.11,4.923,4.708,4.476
+Guyana,GUY,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.017,2.924,2.797,2.684,2.606,2.534,2.462
+Haiti,HTI,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.344,4.029,3.746,3.501,3.288,3.098,2.935
+Honduras,HND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.237,3.815,3.419,3.063,2.774,2.581,2.46
+"Hong Kong SAR, China",HKG,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.032,0.901,0.984,1.055,1.285,1.196,1.072
+Hungary,HUN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.32,1.27,1.34,1.32,1.34,1.45,1.55
+Iceland,ISL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.08,1.99,2.08,2.23,2.04,1.8,1.71
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.311,3.109,2.899,2.661,2.439,2.295,2.222
+Indonesia,IDN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.512,2.513,2.51,2.492,2.455,2.389,2.311
+"Iran, Islamic Rep.",IRN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.067,1.878,1.812,1.821,1.901,2.041,2.137
+Iraq,IRQ,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.94,4.676,4.48,4.374,4.243,3.972,3.672
+Ireland,IRL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.89,1.96,1.91,2.06,1.98,1.85,1.75
+Isle of Man,IMN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,..,..,..,..,..,..,..
+Israel,ISR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.95,2.95,2.88,2.96,3.05,3.09,3.09
+Italy,ITA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.26,1.29,1.37,1.45,1.43,1.35,1.29
+Jamaica,JAM,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.577,2.439,2.325,2.212,2.102,2.026,1.979
+Japan,JPN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.359,1.29,1.32,1.37,1.41,1.45,1.42
+Jordan,JOR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.109,3.977,3.866,3.706,3.436,3.071,2.761
+Kazakhstan,KAZ,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.8,2.03,2.36,2.55,2.62,2.74,2.84
+Kenya,KEN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.178,4.979,4.767,4.482,4.123,3.765,3.492
+Kiribati,KIR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.058,3.95,3.895,3.859,3.796,3.692,3.569
+"Korea, Dem. People's Rep.",PRK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.991,1.986,1.966,1.943,1.931,1.922,1.904
+"Korea, Rep.",KOR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.48,1.191,1.132,1.149,1.297,1.239,0.977
+Kosovo,XKX,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.95,2.34,2.43,2.34,2.19,2.09,2
+Kuwait,KWT,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.845,2.614,2.447,2.291,2.139,2.083,2.082
+Kyrgyz Republic,KGZ,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.4,2.5,2.7,2.9,3.2,3.2,3.3
+Lao PDR,LAO,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.311,3.845,3.516,3.234,2.977,2.796,2.667
+Latvia,LVA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.25,1.32,1.46,1.46,1.44,1.7,1.6
+Lebanon,LBN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.405,2.142,1.956,1.938,2.038,2.103,2.087
+Lesotho,LSO,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.792,3.616,3.449,3.328,3.265,3.218,3.141
+Liberia,LBR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.866,5.61,5.338,5.062,4.793,4.54,4.315
+Libya,LBY,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.851,2.609,2.509,2.485,2.447,2.356,2.24
+Liechtenstein,LIE,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.57,1.36,1.43,1.71,1.51,1.4,1.58
+Lithuania,LTU,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.39,1.26,1.33,1.5,1.6,1.7,1.63
+Luxembourg,LUX,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.76,1.62,1.65,1.59,1.57,1.47,1.38
+"Macao SAR, China",MAC,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,0.95,0.86,0.911,1.048,1.161,1.203,1.217
+Madagascar,MDG,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.551,5.24,4.956,4.689,4.442,4.241,4.077
+Malawi,MWI,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.098,6,5.844,5.491,4.988,4.527,4.209
+Malaysia,MYS,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.784,2.438,2.249,2.169,2.11,2.056,2.001
+Maldives,MDV,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.771,2.372,2.262,2.231,2.129,1.991,1.87
+Mali,MLI,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.897,6.842,6.76,6.612,6.396,6.145,5.877
+Malta,MLT,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.68,1.48,1.36,1.42,1.42,1.37,1.23
+Marshall Islands,MHL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,..,..,4.5,..,..,..,..
+Mauritania,MRT,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.413,5.277,5.14,5.019,4.895,4.738,4.561
+Mauritius,MUS,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.99,1.87,1.77,1.59,1.54,1.36,1.41
+Mexico,MEX,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.716,2.579,2.456,2.364,2.294,2.215,2.129
+"Micronesia, Fed. Sts.",FSM,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.3,4.007,3.739,3.522,3.347,3.193,3.053
+Moldova,MDA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.435,1.247,1.227,1.268,1.273,1.261,1.262
+Monaco,MCO,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,..,..,..,..,..,..,..
+Mongolia,MNG,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.141,2.087,2.253,2.541,2.794,2.918,2.895
+Montenegro,MNE,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.875,1.852,1.73,1.98,1.72,1.74,1.76
+Morocco,MAR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.771,2.632,2.553,2.556,2.579,2.524,2.415
+Mozambique,MOZ,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.826,5.768,5.634,5.454,5.264,5.062,4.852
+Myanmar,MMR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.878,2.763,2.596,2.412,2.274,2.198,2.154
+Namibia,NAM,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.88,3.604,3.56,3.62,3.623,3.54,3.396
+Nauru,NRU,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,..,..,..,..,..,..,..
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.955,3.422,2.986,2.644,2.351,2.098,1.917
+Netherlands,NLD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.72,1.75,1.72,1.79,1.72,1.66,1.59
+New Caledonia,NCL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.59,2.27,2.29,2.2,2.28,2.06,1.97
+New Zealand,NZL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.98,1.93,2.01,2.13,2.1,1.99,1.71
+Nicaragua,NIC,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.111,2.874,2.725,2.628,2.55,2.48,2.404
+Niger,NER,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,7.679,7.645,7.592,7.511,7.376,7.169,6.913
+Nigeria,NGA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.106,6.036,5.958,5.872,5.758,5.592,5.387
+North Macedonia,MKD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.723,1.605,1.46,1.5,1.5,1.49,1.42
+Northern Mariana Islands,MNP,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,..,..,..,..,..,..,..
+Norway,NOR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.85,1.8,1.9,1.98,1.85,1.72,1.56
+Oman,OMN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.716,3.142,2.904,2.868,2.896,2.939,2.888
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.037,4.648,4.31,4.031,3.816,3.66,3.51
+Palau,PLW,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.83,..,..,..,2.23,2.21,..
+Panama,PAN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.744,2.679,2.643,2.628,2.601,2.54,2.461
+Papua New Guinea,PNG,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.525,4.368,4.21,4.043,3.869,3.707,3.564
+Paraguay,PRY,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.553,3.21,2.97,2.787,2.625,2.508,2.429
+Peru,PER,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.845,2.723,2.682,2.594,2.441,2.323,2.254
+Philippines,PHL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.811,3.65,3.429,3.236,3.055,2.805,2.576
+Poland,POL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.37,1.22,1.27,1.4,1.33,1.32,1.46
+Portugal,PRT,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.55,1.44,1.37,1.34,1.28,1.31,1.42
+Puerto Rico,PRI,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.0485,1.7624,1.7123,1.6528,1.5425,1.3365,1.035
+Qatar,QAT,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.236,2.858,2.433,2.13,1.997,1.929,1.866
+Romania,ROU,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.31,1.3,1.42,1.66,1.52,1.62,1.76
+Russian Federation,RUS,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.195,1.319,1.305,1.542,1.691,1.777,1.579
+Rwanda,RWA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.64,5.342,5.015,4.641,4.322,4.157,4.044
+Samoa,WSM,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.503,4.454,4.46,4.388,4.212,4.029,3.877
+San Marino,SMR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,..,..,..,..,1.26,..,..
+Sao Tome and Principe,STP,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.176,5.049,4.919,4.776,4.627,4.477,4.321
+Saudi Arabia,SAU,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.971,3.601,3.331,3.066,2.773,2.507,2.319
+Senegal,SEN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.448,5.232,5.124,5.081,5.005,4.841,4.625
+Serbia,SRB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.48,1.59,1.43,1.44,1.45,1.46,1.49
+Seychelles,SYC,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.08,2.06,2.11,2.38,2.37,2.31,2.41
+Sierra Leone,SLE,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.319,6.067,5.747,5.346,4.923,4.561,4.263
+Singapore,SGP,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.6,1.27,1.28,1.22,1.29,1.24,1.14
+Sint Maarten (Dutch part),SXM,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,..,..,..,1.7,..,..,..
+Slovak Republic,SVK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.3,1.2,1.25,1.44,1.34,1.4,1.54
+Slovenia,SVN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.26,1.2,1.31,1.53,1.58,1.57,1.6
+Solomon Islands,SLB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.719,4.558,4.44,4.399,4.428,4.459,4.403
+Somalia,SOM,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,7.627,7.451,7.228,6.961,6.664,6.363,6.072
+South Africa,ZAF,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.694,2.608,2.607,2.608,2.561,2.484,2.405
+South Sudan,SSD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.223,5.969,5.721,5.465,5.197,4.937,4.696
+Spain,ESP,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.22,1.3,1.36,1.38,1.32,1.33,1.26
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.24,2.263,2.278,2.259,2.227,2.213,2.199
+St. Kitts and Nevis,KNA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,..,..,..,..,..,..,..
+St. Lucia,LCA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.202,1.826,1.63,1.555,1.508,1.473,1.436
+St. Martin (French part),MAF,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.83,1.83,1.82,1.82,1.82,1.81,1.81
+St. Vincent and the Grenadines,VCT,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.379,2.229,2.149,2.092,2.021,1.953,1.891
+Sudan,SDN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.471,5.268,5.085,4.926,4.771,4.594,4.407
+Suriname,SUR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.895,2.811,2.717,2.633,2.565,2.494,2.418
+Sweden,SWE,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.54,1.71,1.85,1.94,1.91,1.85,1.76
+Switzerland,CHE,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.5,1.39,1.44,1.5,1.52,1.54,1.52
+Syrian Arab Republic,SYR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.076,3.899,3.762,3.514,3.181,2.94,2.808
+Tajikistan,TJK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.967,3.703,3.602,3.596,3.608,3.623,3.585
+Tanzania,TZA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.689,5.659,5.616,5.489,5.287,5.079,4.892
+Thailand,THA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.671,1.595,1.56,1.545,1.538,1.538,1.525
+Timor-Leste,TLS,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.113,6.137,5.675,5.004,4.497,4.219,4.023
+Togo,TGO,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.419,5.279,5.123,4.936,4.727,4.516,4.32
+Tonga,TON,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.25,4.202,4.104,3.963,3.815,3.678,3.556
+Trinidad and Tobago,TTO,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.753,1.749,1.78,1.804,1.799,1.767,1.725
+Tunisia,TUN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.142,2.016,1.999,2.095,2.216,2.251,2.197
+Turkey,TUR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.503,2.353,2.24,2.168,2.126,2.101,2.069
+Turkmenistan,TKM,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.824,2.698,2.653,2.769,2.936,2.93,2.786
+Turks and Caicos Islands,TCA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,..,..,..,..,..,..,..
+Tuvalu,TUV,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,..,..,..,..,..,..,..
+Uganda,UGA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.866,6.723,6.516,6.227,5.845,5.394,4.955
+Ukraine,UKR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.116,1.172,1.31,1.473,1.531,1.506,1.301
+United Arab Emirates,ARE,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.644,2.337,2.081,1.877,1.708,1.541,1.413
+United Kingdom,GBR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.64,1.7,1.82,1.89,1.92,1.8,1.68
+United States,USA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.056,2.0475,2.108,2.002,1.8805,1.8435,1.7295
+Uruguay,URY,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.237,2.156,2.07,2.018,2.006,1.997,1.973
+Uzbekistan,UZB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.58,2.36,2.39,2.53,2.193,2.491,2.604
+Vanuatu,VUT,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,4.492,4.378,4.261,4.14,4.019,3.898,3.782
+"Venezuela, RB",VEN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.822,2.701,2.595,2.5,2.417,2.34,2.272
+Vietnam,VNM,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.01,1.901,1.899,1.928,1.962,2.014,2.049
+Virgin Islands (U.S.),VIR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.06,2.07,2.03,2.37,2.06,2.11,2.06
+West Bank and Gaza,PSE,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.383,4.973,4.699,4.504,4.272,3.955,3.643
+"Yemen, Rep.",YEM,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.313,5.778,5.253,4.801,4.439,4.103,3.792
+Zambia,ZMB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.036,5.915,5.724,5.496,5.233,4.918,4.633
+Zimbabwe,ZWE,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.748,3.725,3.819,3.988,4.058,3.896,3.615
+Africa Eastern and Southern,AFE,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.57342063506595,5.4180547778561,5.26732378342461,5.09384108443779,4.88205815306685,4.64763738028328,4.42026391586983
+Africa Western and Central,AFW,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.03104412808845,5.9086591885799,5.78445201860554,5.65439834596769,5.50378135093046,5.31947341679464,5.11300261660126
+Arab World,ARB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.84571250984344,3.6264598797368,3.50894819741692,3.47502444929669,3.45066091158188,3.36522111169123,3.23100110132061
+Caribbean small states,CSS,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.43823830142346,2.32884072389941,2.24718402757169,2.17700104960808,2.10645191132354,2.04524901380723,1.99513438593883
+Central Europe and the Baltics,CEB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.31774313379457,1.25090051033461,1.34183606254527,1.48737353410718,1.41611469271309,1.46237002436237,1.57442274939992
+Early-demographic dividend,EAR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.34278177015425,3.15165724134927,2.9815801793489,2.82381266883745,2.67945900524956,2.57249804011176,2.48773541757392
+East Asia & Pacific,EAS,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.85090907409358,1.82302159268485,1.81855560948427,1.81840106059257,1.82841532998948,1.83045224023883,1.82244457725465
+East Asia & Pacific (excluding high income),EAP,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.89644369808886,1.88163775636524,1.87351791061722,1.86909280118086,1.87029311965653,1.874114605366,1.87567086919773
+East Asia & Pacific (IDA & IBRD),TEA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.89527342959503,1.88033645112665,1.87236635974989,1.86818118237378,1.8695386335142,1.87351147751053,1.87531275614857
+Euro area,EMU,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.47089340843436,1.4737679046925,1.52366545972244,1.56445019112123,1.55440972297305,1.54977660081832,1.52383483653529
+Europe & Central Asia,ECS,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.55697208207947,1.56951627991864,1.62008758622537,1.72138882743733,1.74003131565375,1.76491634364109,1.71921941697785
+Europe & Central Asia (excluding high income),ECA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.64292665601484,1.67104137788261,1.704553255707,1.85567532775644,1.90500305128724,1.9748349438706,1.89835171579758
+Europe & Central Asia (IDA & IBRD),TEC,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.61652599275884,1.62979982630402,1.6658644415152,1.81499417071054,1.85512182586433,1.91764407446197,1.86029345331729
+European Union,EUU,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.44128713796333,1.43243670157818,1.49446128582065,1.5588667634345,1.53336478201988,1.5373395837111,1.54205939598711
+Fragile and conflict affected situations,FCS,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.44052561167664,5.29594098927544,5.15066298113557,4.99489263990343,4.83373407309355,4.65109508530543,4.46258181065134
+Heavily indebted poor countries (HIPC),HPC,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.06808625257244,5.87674988760382,5.6725329433962,5.44662367251766,5.20142514268811,4.94664616121261,4.69865319338864
+High income,HIC,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.70711028453039,1.66412345350711,1.71060058899355,1.71394426826184,1.69049688229795,1.66318804586239,1.59406817233529
+IBRD only,IBD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.35721641781672,2.2821770066341,2.21934087392181,2.17290439198083,2.12871480163244,2.09821283034084,2.06742420964631
+IDA & IBRD total,IBT,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.88983300710995,2.80384343137169,2.73210634657219,2.67691657459548,2.62236162888296,2.58344779042624,2.54469353641608
+IDA blend,IDB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.17993650867651,4.96033926934301,4.77927313403227,4.6195634830106,4.42940955426541,4.29054330930303,4.1335481494101
+IDA only,IDX,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.08699407139914,4.87032523589774,4.66201041542462,4.45710919032359,4.26403989471297,4.08380429552199,3.91585153154177
+IDA total,IDA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.11775079262545,4.90017220881045,4.70095188257218,4.51113613542721,4.31910776782207,4.15259463489794,3.98809930210354
+Late-demographic dividend,LTE,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.72137374444232,1.69900495573066,1.68738688221595,1.70427396089613,1.71954909263579,1.74034879787143,1.74229729465541
+Latin America & Caribbean,LCN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.62688993579543,2.45864798726911,2.31593689528245,2.21237021128243,2.14189305879683,2.08444986866009,2.02739306284088
+Latin America & Caribbean (excluding high income),LAC,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.64644007196052,2.47279808383753,2.32258857867405,2.2139098958093,2.14229468852552,2.0871786182497,2.03327997782894
+Latin America & Caribbean (IDA & IBRD),TLA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.65533297365154,2.48330964534986,2.33596938728696,2.22788599075172,2.15419004034474,2.09569842281943,2.03849405008759
+Least developed countries: UN classification,LDC,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.20345235008658,4.98956314530571,4.77989071973288,4.57181514579802,4.37013454555877,4.1785555402039,4.00014577595758
+Low & middle income,LMY,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.90062038616592,2.81496473028794,2.74201375051706,2.68546944611901,2.63100892681925,2.59205936826887,2.55224474957263
+Low income,LIC,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.03728015795783,5.848174417239,5.63697858940042,5.39712576528783,5.14633995396536,4.89699939896906,4.65268884111613
+Lower middle income,LMC,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.45611532592706,3.2910540112687,3.14833802126487,3.01372564997948,2.88717944382276,2.79257688786467,2.71514734558344
+Middle East & North Africa,MEA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.19350628199683,2.97930684647135,2.88404935141141,2.8860976455714,2.91068956606516,2.88941191929536,2.80892600122639
+Middle East & North Africa (excluding high income),MNA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.15375409376191,2.94857894746241,2.86973297210821,2.89812605326657,2.95570298761973,2.96005395028116,2.8871307343527
+Middle East & North Africa (IDA & IBRD),TMN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.13356935145369,2.93002034400033,2.8523750961165,2.88202792338236,2.94180608806416,2.9490514293318,2.87841414705087
+Middle income,MIC,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.67225987267224,2.58538540009926,2.51206161324188,2.45736741723574,2.40624804876249,2.3721642285613,2.33704751367292
+North America,NAC,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.00113771259636,1.99640380905906,2.05782608405753,1.969366048074,1.85409165382496,1.81895455100068,1.70616008218429
+OECD members,OED,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.83389485391653,1.79092793664597,1.8149091687439,1.80607879349863,1.77317315175461,1.74850370199458,1.68665347384857
+Other small states,OSS,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.63849483742547,3.49140382283783,3.37962494710402,3.28765530912628,3.19983751769879,3.12764454253784,3.04997554952617
+Pacific island small states,PSS,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.86195726940208,3.73599365930227,3.63489240783317,3.57859715781714,3.57046422737667,3.5672095000278,3.51522427458484
+Post-demographic dividend,PST,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.61628988547233,1.5972658409333,1.65965968867274,1.67212752876926,1.65253374414004,1.63292430033918,1.55122363723398
+Pre-demographic dividend,PRE,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.1063307313548,5.97475330827196,5.83068099430227,5.65743443246036,5.44030890865472,5.18937844443636,4.93972798066623
+Small states,SST,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.37466648855881,3.24370379111989,3.14690802956696,3.07014193511161,2.99764062581352,2.93809344462045,2.87422486535531
+South Asia,SAS,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.50721477764956,3.28369797720313,3.06007522847628,2.82267069032602,2.611199416054,2.47007882516082,2.38474821139472
+South Asia (IDA & IBRD),TSA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.50721477764956,3.28369797720312,3.06007522847628,2.82267069032602,2.611199416054,2.47007882516082,2.38474821139472
+Sub-Saharan Africa,SSF,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.75529308291301,5.6130469269867,5.47282756051299,5.31651497198753,5.1283182302173,4.91289045925515,4.69321312829709
+Sub-Saharan Africa (excluding high income),SSA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.75582993196442,5.61355321127897,5.47327224146265,5.31686657404302,5.12861307555198,4.91314984110584,4.69342016968943
+Sub-Saharan Africa (IDA & IBRD),TSS,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.75529308291301,5.6130469269867,5.47282756051299,5.31651497198753,5.1283182302173,4.91289045925515,4.69321312829709
+Upper middle income,UMC,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.86946120645447,1.83994672237414,1.81753354947586,1.82341166451206,1.83288673502189,1.84556753640807,1.8360022333434
+World,WLD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.69627739852395,2.62496905781507,2.57726313569244,2.53429165672021,2.48892369255613,2.45543225373231,2.41495184624461
+Afghanistan,AFG,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,3.80719375610352
+Albania,ALB,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,9.39986896514893
+Algeria,DZA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,7.42757177352905
+American Samoa,ASM,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Andorra,AND,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Angola,AGO,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,3.62558841705322
+Antigua and Barbuda,ATG,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.32785415649414
+Argentina,ARG,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.79666709899902
+Armenia,ARM,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.3281831741333
+Aruba,ABW,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Australia,AUS,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.5158233642578
+Austria,AUT,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.2909240722656
+Azerbaijan,AZE,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,9.54385089874268
+"Bahamas, The",BHS,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Bahrain,BHR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,9.98448848724365
+Bangladesh,BGD,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,6.22562980651855
+Barbados,BRB,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Belarus,BLR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Belgium,BEL,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.2338237762451
+Belize,BLZ,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Benin,BEN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,5.39248847961426
+Bermuda,BMU,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Bhutan,BTN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Bolivia,BOL,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.67932415008545
+Botswana,BWA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,5.45873594284058
+Brazil,BRA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+British Virgin Islands,VGB,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Bulgaria,BGR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,9.91541481018066
+Burkina Faso,BFA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,4.28995752334595
+Burundi,BDI,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,5.66486501693726
+Cabo Verde,CPV,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Cambodia,KHM,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Cameroon,CMR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,5.09313011169434
+Canada,CAN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.8244171142578
+Cayman Islands,CYM,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Central African Republic,CAF,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Chad,TCD,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,2.31434273719788
+Channel Islands,CHI,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Chile,CHL,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,9.70554733276367
+China,CHN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,9.23676109313965
+Colombia,COL,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.59073734283447
+Comoros,COM,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,5.0314130783081
+"Congo, Dem. Rep.",COD,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,4.33589172363281
+"Congo, Rep.",COG,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,5.37640857696533
+Costa Rica,CRI,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.53534030914307
+Cote d'Ivoire,CIV,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,4.21960783004761
+Croatia,HRV,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,10.9131736755371
+Cuba,CUB,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Curacao,CUW,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Cyprus,CYP,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,10.9055271148682
+Czech Republic,CZE,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.3946142196655
+Denmark,DNK,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.4714860916138
+Djibouti,DJI,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Dominica,DMA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.46479511260986
+Dominican Republic,DOM,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,6.91364192962646
+Ecuador,ECU,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.90989017486572
+"Egypt, Arab Rep.",EGY,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,6.77243995666504
+El Salvador,SLV,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,7.69150304794312
+Equatorial Guinea,GNQ,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Eritrea,ERI,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Estonia,EST,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.8030042648315
+Eswatini,SWZ,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Ethiopia,ETH,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,4.27878093719482
+Faroe Islands,FRO,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Fiji,FJI,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Finland,FIN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,12.2769508361816
+France,FRA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.2410850524902
+French Polynesia,PYF,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Gabon,GAB,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,6.2082691192627
+"Gambia, The",GMB,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,5.18600177764893
+Georgia,GEO,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,9.48947048187256
+Germany,DEU,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.2860317230225
+Ghana,GHA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,5.83620357513428
+Gibraltar,GIB,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Greece,GRC,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,10.2435550689697
+Greenland,GRL,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Grenada,GRD,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.28743171691895
+Guam,GUM,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Guatemala,GTM,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,6.2174506187439
+Guinea,GIN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,3.94857859611511
+Guinea-Bissau,GNB,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Guyana,GUY,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,7.01596689224243
+Haiti,HTI,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,6.26985454559326
+Honduras,HND,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,6.26761674880981
+"Hong Kong SAR, China",HKG,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,12.3380708694458
+Hungary,HUN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,10.7274236679077
+Iceland,ISL,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,10.9333524703979
+India,IND,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,6.98165988922119
+Indonesia,IDN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.09847259521484
+"Iran, Islamic Rep.",IRN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.43418216705322
+Iraq,IRQ,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,4.24267101287842
+Ireland,IRL,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.9699859619141
+Isle of Man,IMN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Israel,ISR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.2632284164429
+Italy,ITA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,10.8969583511353
+Jamaica,JAM,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,7.64113664627075
+Japan,JPN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Jordan,JOR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.01914405822754
+Kazakhstan,KAZ,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,12.0164051055908
+Kenya,KEN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Kiribati,KIR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,7.45959424972534
+"Korea, Dem. People's Rep.",PRK,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+"Korea, Rep.",KOR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,12.3157024383545
+Kosovo,XKX,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.06910037994385
+Kuwait,KWT,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,7.88888502120972
+Kyrgyz Republic,KGZ,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.79069709777832
+Lao PDR,LAO,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,6.34678649902344
+Latvia,LVA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.8333511352539
+Lebanon,LBN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Lesotho,LSO,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Liberia,LBR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,2.18399834632873
+Libya,LBY,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Liechtenstein,LIE,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Lithuania,LTU,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.5633735656738
+Luxembourg,LUX,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,9.97618293762207
+"Macao SAR, China",MAC,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.3364562988281
+Madagascar,MDG,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,4.84533452987671
+Malawi,MWI,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Malaysia,MYS,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,9.60183334350586
+Maldives,MDV,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Mali,MLI,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,2.66634297370911
+Malta,MLT,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,10.4342861175537
+Marshall Islands,MHL,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,5.32188081741333
+Mauritania,MRT,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,4.15528297424316
+Mauritius,MUS,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Mexico,MEX,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.91710948944092
+"Micronesia, Fed. Sts.",FSM,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,6.42887544631958
+Moldova,MDA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.45910263061523
+Monaco,MCO,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Mongolia,MNG,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,9.2112979888916
+Montenegro,MNE,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.88395404815674
+Morocco,MAR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,6.26231527328491
+Mozambique,MOZ,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Myanmar,MMR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,6.7844762802124
+Namibia,NAM,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Nauru,NRU,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Nepal,NPL,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Netherlands,NLD,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.8534126281738
+New Caledonia,NCL,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+New Zealand,NZL,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.4978752136231
+Nicaragua,NIC,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,6.96400165557861
+Niger,NER,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,2.44534373283386
+Nigeria,NGA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,4.98387432098389
+North Macedonia,MKD,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,6.99830436706543
+Northern Mariana Islands,MNP,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Norway,NOR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.3299255371094
+Oman,OMN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,9.29783248901367
+Pakistan,PAK,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,4.766197681427
+Palau,PLW,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.59907627105713
+Panama,PAN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,6.82751369476318
+Papua New Guinea,PNG,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,5.66039037704468
+Paraguay,PRY,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,6.90115451812744
+Peru,PER,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.34506893157959
+Philippines,PHL,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.73092079162598
+Poland,POL,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.6239776611328
+Portugal,PRT,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.4746341705322
+Puerto Rico,PRI,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Qatar,QAT,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,9.11959171295166
+Romania,ROU,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.74332523345947
+Russian Federation,RUS,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.8311634063721
+Rwanda,RWA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,4.07757425308228
+Samoa,WSM,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,7.01764249801636
+San Marino,SMR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Sao Tome and Principe,STP,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Saudi Arabia,SAU,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.56523418426514
+Senegal,SEN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,5.12693309783935
+Serbia,SRB,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.2858743667603
+Seychelles,SYC,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Sierra Leone,SLE,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,4.66241502761841
+Singapore,SGP,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,13.0060482025147
+Sint Maarten (Dutch part),SXM,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Slovak Republic,SVK,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,10.1739387512207
+Slovenia,SVN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.8064918518066
+Solomon Islands,SLB,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,5.27785968780518
+Somalia,SOM,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+South Africa,ZAF,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,5.80576181411743
+South Sudan,SSD,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Spain,ESP,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,10.7497282028198
+Sri Lanka,LKA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+St. Kitts and Nevis,KNA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.14675998687744
+St. Lucia,LCA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.56311988830566
+St. Martin (French part),MAF,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+St. Vincent and the Grenadines,VCT,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.1140022277832
+Sudan,SDN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,4.32574987411499
+Suriname,SUR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Sweden,SWE,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.8151588439941
+Switzerland,CHE,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.0957632064819
+Syrian Arab Republic,SYR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Tajikistan,TJK,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,7.48287439346313
+Tanzania,TZA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,4.61734533309937
+Thailand,THA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.98126316070557
+Timor-Leste,TLS,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,6.57290410995483
+Togo,TGO,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,5.59247493743896
+Tonga,TON,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,7.3278112411499
+Trinidad and Tobago,TTO,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Tunisia,TUN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,6.77009439468384
+Turkey,TUR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.88948535919189
+Turkmenistan,TKM,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Turks and Caicos Islands,TCA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Tuvalu,TUV,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,6.06742858886719
+Uganda,UGA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Ukraine,UKR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,10.1601781845093
+United Arab Emirates,ARE,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,9.77793025970459
+United Kingdom,GBR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.4901657104492
+United States,USA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,10.8333539962769
+Uruguay,URY,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.87076854705811
+Uzbekistan,UZB,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Vanuatu,VUT,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,5.5253734588623
+"Venezuela, RB",VEN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Vietnam,VNM,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,11.0107984542847
+Virgin Islands (U.S.),VIR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+West Bank and Gaza,PSE,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,8.35953617095947
+"Yemen, Rep.",YEM,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,3.81997203826904
+Zambia,ZMB,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Zimbabwe,ZWE,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Africa Eastern and Southern,AFE,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Africa Western and Central,AFW,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Arab World,ARB,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Caribbean small states,CSS,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Central Europe and the Baltics,CEB,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Early-demographic dividend,EAR,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+East Asia & Pacific,EAS,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+East Asia & Pacific (excluding high income),EAP,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+East Asia & Pacific (IDA & IBRD),TEA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Euro area,EMU,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Europe & Central Asia (excluding high income),ECA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Europe & Central Asia (IDA & IBRD),TEC,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+European Union,EUU,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Fragile and conflict affected situations,FCS,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Heavily indebted poor countries (HIPC),HPC,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+High income,HIC,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+IBRD only,IBD,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+IDA & IBRD total,IBT,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+IDA blend,IDB,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+IDA only,IDX,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+IDA total,IDA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Late-demographic dividend,LTE,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Latin America & Caribbean,LCN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Latin America & Caribbean (excluding high income),LAC,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Latin America & Caribbean (IDA & IBRD),TLA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Least developed countries: UN classification,LDC,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Low & middle income,LMY,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Low income,LIC,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Lower middle income,LMC,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Middle East & North Africa (excluding high income),MNA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Middle East & North Africa (IDA & IBRD),TMN,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Middle income,MIC,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+North America,NAC,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+OECD members,OED,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Other small states,OSS,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Pacific island small states,PSS,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Post-demographic dividend,PST,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Pre-demographic dividend,PRE,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Small states,SST,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+South Asia,SAS,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+South Asia (IDA & IBRD),TSA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Sub-Saharan Africa (excluding high income),SSA,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Sub-Saharan Africa (IDA & IBRD),TSS,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Upper middle income,UMC,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+World,WLD,"Learning-Adjusted Years of School, Female",HD.HCI.LAYS.FE,..,..,..,..,..,..,..
+Afghanistan,AFG,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,5.46374702453613
+Albania,ALB,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,8.34502792358398
+Algeria,DZA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.69645929336548
+American Samoa,ASM,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Andorra,AND,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Angola,AGO,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,4.83345651626587
+Antigua and Barbuda,ATG,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,7.87092733383179
+Argentina,ARG,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,8.68136882781982
+Armenia,ARM,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,7.8404016494751
+Aruba,ABW,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Australia,AUS,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.3038673400879
+Austria,AUT,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.2629594802856
+Azerbaijan,AZE,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,9.22323322296143
+"Bahamas, The",BHS,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Bahrain,BHR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,9.07497787475586
+Bangladesh,BGD,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,5.7743124961853
+Barbados,BRB,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Belarus,BLR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Belgium,BEL,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.2443714141846
+Belize,BLZ,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Benin,BEN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,5.88792276382446
+Bermuda,BMU,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Bhutan,BTN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Bolivia,BOL,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,8.6040735244751
+Botswana,BWA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,4.70308113098145
+Brazil,BRA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+British Virgin Islands,VGB,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Bulgaria,BGR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,9.69442081451416
+Burkina Faso,BFA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,4.41545295715332
+Burundi,BDI,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,5.122971534729
+Cabo Verde,CPV,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Cambodia,KHM,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Cameroon,CMR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,5.485267162323
+Canada,CAN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.7459392547607
+Cayman Islands,CYM,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Central African Republic,CAF,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Chad,TCD,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,3.40603470802307
+Channel Islands,CHI,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Chile,CHL,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,9.6746711730957
+China,CHN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,9.10990333557129
+Colombia,COL,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,8.45673370361328
+Comoros,COM,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,5.12625169754028
+"Congo, Dem. Rep.",COD,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,4.73288059234619
+"Congo, Rep.",COG,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,5.18525171279907
+Costa Rica,CRI,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,8.46972370147705
+Cote d'Ivoire,CIV,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,4.88156604766846
+Croatia,HRV,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,10.709508895874
+Cuba,CUB,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Curacao,CUW,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Cyprus,CYP,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,10.9283847808838
+Czech Republic,CZE,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.2799825668335
+Denmark,DNK,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.2796087265015
+Djibouti,DJI,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Dominica,DMA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,7.89644527435303
+Dominican Republic,DOM,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.45455980300903
+Ecuador,ECU,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,8.60152721405029
+"Egypt, Arab Rep.",EGY,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.24020719528198
+El Salvador,SLV,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,7.587721824646
+Equatorial Guinea,GNQ,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Eritrea,ERI,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Estonia,EST,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.5890035629272
+Eswatini,SWZ,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Ethiopia,ETH,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,4.69781637191772
+Faroe Islands,FRO,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Fiji,FJI,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Finland,FIN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.8299837112427
+France,FRA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.1042518615723
+French Polynesia,PYF,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Gabon,GAB,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,5.80859851837158
+"Gambia, The",GMB,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,4.81980133056641
+Georgia,GEO,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,8.85399532318115
+Germany,DEU,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.2443723678589
+Ghana,GHA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,5.81801652908325
+Gibraltar,GIB,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Greece,GRC,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,9.91701126098633
+Greenland,GRL,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Grenada,GRD,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,7.23785305023193
+Guam,GUM,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Guatemala,GTM,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.1844916343689
+Guinea,GIN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,5.26708126068115
+Guinea-Bissau,GNB,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Guyana,GUY,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.54274749755859
+Haiti,HTI,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.04396867752075
+Honduras,HND,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.00419998168945
+"Hong Kong SAR, China",HKG,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.7782726287842
+Hungary,HUN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,10.6581735610962
+Iceland,ISL,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,10.4719944000244
+India,IND,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.87292814254761
+Indonesia,IDN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,7.77980661392212
+"Iran, Islamic Rep.",IRN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,7.98024606704712
+Iraq,IRQ,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,3.80146670341492
+Ireland,IRL,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.9479398727417
+Isle of Man,IMN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Israel,ISR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,10.917501449585
+Italy,ITA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,10.8895130157471
+Jamaica,JAM,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.74864053726196
+Japan,JPN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Jordan,JOR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,7.08382940292358
+Kazakhstan,KAZ,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.591875076294
+Kenya,KEN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Kiribati,KIR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.3203501701355
+"Korea, Dem. People's Rep.",PRK,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+"Korea, Rep.",KOR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,12.1857709884644
+Kosovo,XKX,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,7.76534032821655
+Kuwait,KWT,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.99153184890747
+Kyrgyz Republic,KGZ,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,8.49523830413818
+Lao PDR,LAO,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.2682318687439
+Latvia,LVA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.2848720550537
+Lebanon,LBN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Lesotho,LSO,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Liberia,LBR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,2.22594594955444
+Libya,LBY,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Liechtenstein,LIE,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Lithuania,LTU,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.1778373718262
+Luxembourg,LUX,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,9.88611888885498
+"Macao SAR, China",MAC,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,10.8259086608887
+Madagascar,MDG,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,4.58331394195557
+Malawi,MWI,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Malaysia,MYS,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,9.0842456817627
+Maldives,MDV,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Mali,MLI,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,3.04879665374756
+Malta,MLT,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,9.96637439727783
+Marshall Islands,MHL,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,4.87941694259644
+Mauritania,MRT,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,3.89531898498535
+Mauritius,MUS,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Mexico,MEX,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,8.71205139160156
+"Micronesia, Fed. Sts.",FSM,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,5.97188091278076
+Moldova,MDA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,8.04489231109619
+Monaco,MCO,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Mongolia,MNG,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,9.1778450012207
+Montenegro,MNE,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,8.55782127380371
+Morocco,MAR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,5.85772180557251
+Mozambique,MOZ,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Myanmar,MMR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.56788396835327
+Namibia,NAM,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Nauru,NRU,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Nepal,NPL,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Netherlands,NLD,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.6653747558594
+New Caledonia,NCL,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+New Zealand,NZL,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.1735410690308
+Nicaragua,NIC,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.54145812988281
+Niger,NER,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,2.92918610572815
+Nigeria,NGA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,5.09001493453979
+North Macedonia,MKD,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.64861392974854
+Northern Mariana Islands,MNP,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Norway,NOR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.092267036438
+Oman,OMN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,8.20018100738525
+Pakistan,PAK,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,5.35901117324829
+Palau,PLW,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,7.9611759185791
+Panama,PAN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.79558038711548
+Papua New Guinea,PNG,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.13268423080444
+Paraguay,PRY,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,7.05196571350098
+Peru,PER,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,8.55131912231445
+Philippines,PHL,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,7.98316478729248
+Poland,POL,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.4160194396973
+Portugal,PRT,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.649881362915
+Puerto Rico,PRI,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Qatar,QAT,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,8.36434745788574
+Romania,ROU,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,8.48689937591553
+Russian Federation,RUS,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.7211236953735
+Rwanda,RWA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,3.70426917076111
+Samoa,WSM,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.30175876617432
+San Marino,SMR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Sao Tome and Principe,STP,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Saudi Arabia,SAU,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,7.47254037857056
+Senegal,SEN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,4.61424779891968
+Serbia,SRB,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.1363334655762
+Seychelles,SYC,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Sierra Leone,SLE,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,4.65239191055298
+Singapore,SGP,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,12.8658990859985
+Sint Maarten (Dutch part),SXM,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Slovak Republic,SVK,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,10.0338258743286
+Slovenia,SVN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.4347047805786
+Solomon Islands,SLB,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,4.77235412597656
+Somalia,SOM,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+South Africa,ZAF,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,5.3231463432312
+South Sudan,SSD,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Spain,ESP,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,10.5819721221924
+Sri Lanka,LKA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+St. Kitts and Nevis,KNA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,8.20849227905273
+St. Lucia,LCA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,7.84580230712891
+St. Martin (French part),MAF,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+St. Vincent and the Grenadines,VCT,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,7.49322652816772
+Sudan,SDN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,4.28337383270264
+Suriname,SUR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Sweden,SWE,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.5991678237915
+Switzerland,CHE,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.128888130188
+Syrian Arab Republic,SYR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Tajikistan,TJK,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,7.94444513320923
+Tanzania,TZA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,4.33231830596924
+Thailand,THA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,8.69326972961426
+Timor-Leste,TLS,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.03438806533813
+Togo,TGO,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,5.8188304901123
+Tonga,TON,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,6.41959953308105
+Trinidad and Tobago,TTO,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Tunisia,TUN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,5.98687982559204
+Turkey,TUR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,8.84084892272949
+Turkmenistan,TKM,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Turks and Caicos Islands,TCA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Tuvalu,TUV,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,5.53873586654663
+Uganda,UGA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Ukraine,UKR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,10.0858783721924
+United Arab Emirates,ARE,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,9.63092231750488
+United Kingdom,GBR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,11.425371170044
+United States,USA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,10.728461265564
+Uruguay,URY,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,8.42920398712158
+Uzbekistan,UZB,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Vanuatu,VUT,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,5.22655582427979
+"Venezuela, RB",VEN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Vietnam,VNM,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,10.2907304763794
+Virgin Islands (U.S.),VIR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+West Bank and Gaza,PSE,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,7.42366933822632
+"Yemen, Rep.",YEM,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,4.52334213256836
+Zambia,ZMB,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Zimbabwe,ZWE,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Africa Eastern and Southern,AFE,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Africa Western and Central,AFW,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Arab World,ARB,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Caribbean small states,CSS,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Central Europe and the Baltics,CEB,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Early-demographic dividend,EAR,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+East Asia & Pacific,EAS,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+East Asia & Pacific (excluding high income),EAP,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+East Asia & Pacific (IDA & IBRD),TEA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Euro area,EMU,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Europe & Central Asia (excluding high income),ECA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Europe & Central Asia (IDA & IBRD),TEC,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+European Union,EUU,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Fragile and conflict affected situations,FCS,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Heavily indebted poor countries (HIPC),HPC,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+High income,HIC,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+IBRD only,IBD,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+IDA & IBRD total,IBT,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+IDA blend,IDB,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+IDA only,IDX,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+IDA total,IDA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Late-demographic dividend,LTE,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Latin America & Caribbean,LCN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Latin America & Caribbean (excluding high income),LAC,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Latin America & Caribbean (IDA & IBRD),TLA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Least developed countries: UN classification,LDC,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Low & middle income,LMY,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Low income,LIC,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Lower middle income,LMC,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Middle East & North Africa (excluding high income),MNA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Middle East & North Africa (IDA & IBRD),TMN,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Middle income,MIC,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+North America,NAC,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+OECD members,OED,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Other small states,OSS,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Pacific island small states,PSS,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Post-demographic dividend,PST,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Pre-demographic dividend,PRE,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Small states,SST,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+South Asia,SAS,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+South Asia (IDA & IBRD),TSA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Sub-Saharan Africa (excluding high income),SSA,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Sub-Saharan Africa (IDA & IBRD),TSS,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+Upper middle income,UMC,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
+World,WLD,"Learning-Adjusted Years of School, Male",HD.HCI.LAYS.MA,..,..,..,..,..,..,..
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Data from database: Gender Statistics,,,,,,,,,,
-Last Updated: 06/23/2022,,,,,,,,,,
+,,Data from database: Gender Statistics,,,,,,,,
+,,Last Updated: 06/23/2022,,,,,,,,
