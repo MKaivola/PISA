@@ -95,9 +95,26 @@ PISA_data |>
   mutate(level = level |> fct_reorder2(year, proportion)) |>
   ggplot(aes(x = year, y = proportion)) +
   geom_line(aes(group = level, color = level)) +
-  facet_wrap(vars(gender))
+  facet_wrap(vars(gender)) + 
+  labs(x = "Year", y = "Proportion")
 
+### Examine Math proficiency trends aggregated over continents
 
+PISA_data |> 
+  filter(gender == "Both" & subject == "MAT") |> 
+  pivot_longer(matches(r"(x\d+_yr\d+)"),
+               names_to = "year",
+               values_to = "proportion") |> 
+  mutate(year = parse_number(year)) |> 
+  group_by(continent) |> 
+  filter(n_distinct(country_name) > 5) |> 
+  ungroup() |> 
+  summarise(med_prop = median(proportion, na.rm = T), .by = c(continent, level, year)) |> 
+  ggplot(aes(x = year, y = med_prop)) +
+  geom_line(aes(group = level, color = level)) + 
+  facet_wrap(vars(continent)) +
+  labs(x = "Year", y = "Proportion")
+  
 ### Regress PISA Math. Prof. Level 0 in 2018 ###
 
 PISA_math_data_2018 <- PISA_data |>
