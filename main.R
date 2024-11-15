@@ -417,7 +417,7 @@ ggplot(rf_cv_df, aes(x = n_vars, y = mean_mse)) +
 ### Gradient Boosting using xgboost ###
 
 plot_gbm_learn_curve <- function(eval_log) {
-  ggplot(PISA_gbm_cv_table, aes(x = iter, y = test_rmse_mean)) + 
+  ggplot(eval_log, aes(x = iter, y = test_rmse_mean)) + 
     geom_line() +
     xlab("Number of iterations") + 
     ylab("Test set RMSE") + 
