@@ -100,15 +100,12 @@ PISA_data |>
 
 ### Regress PISA Math. Prof. Level 0 in 2018 ###
 
-PISA_code <- "LO.PISA.MAT.0"
-
-cols_to_select <- c("country_name", "series_code", "x2018_yr2018")
-
 PISA_math_data_2018 <- PISA_data |>
-  select(all_of(cols_to_select)) |>
-  filter(!is.na(x2018_yr2018)) |>
-  filter(series_code == PISA_code) |>
-  pivot_wider(names_from = series_code, values_from = x2018_yr2018)
+  filter(subject == "MAT" & level == 0 & gender == "Both") |> 
+  select(country_name, continent, x2018_yr2018) |>
+  filter(!is.na(x2018_yr2018)) |> 
+  filter(country_name != "OECD members") |> 
+  rename(MAT.0.Both = x2018_yr2018)
 
 covariate_file_names <- list.files("data/Covariate_csv", full.names = T)
 
@@ -121,16 +118,16 @@ covariate_codes <- covariate_data |>
   distinct(series_name, series_code)
 
 covariate_data_2018 <- covariate_data |>
-  select(all_of(cols_to_select)) |>
+  select(country_name, series_code, x2018_yr2018) |>
   filter(!is.na(x2018_yr2018)) |>
   pivot_wider(names_from = series_code, values_from = x2018_yr2018)
 
-full_data_2018 <- left_join(PISA_math_data_2018, covariate_data_2018, by = join_by(country_name))
+math_covar_data_2018 <- left_join(PISA_math_data_2018, covariate_data_2018, by = join_by(country_name))
 
 # Calculate median response for each continent
 
-summ_per_cont <- group_by(full_data, continent, .drop = F) |>
-  summarise(median = median(LO.PISA.MAT.0), n = n())
+summ_per_cont <- group_by(math_covar_data_2018, continent, .drop = F) |>
+  summarise(median = median(MAT.0.Both), n = n())
 
 summ_per_cont |>
   mutate(continent = continent |> fct_reorder(n)) |>
@@ -140,7 +137,7 @@ summ_per_cont |>
 
 # Check the amount of missing values for each feature
 
-summarise(full_data, across(everything(), function(x)
+summarise(math_covar_data_2018, across(everything(), function(x)
   mean(is.na(x)))) |>
   tidyr::pivot_longer(everything()) |>
   ggplot(aes(x = value)) +
