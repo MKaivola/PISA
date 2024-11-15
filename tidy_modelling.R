@@ -1,6 +1,7 @@
 library(ggplot2)
 library(dplyr)
 library(tidyr)
+library(forcats)
 
 PISA_code <- "LO.PISA.MAT.0"
 
@@ -51,4 +52,24 @@ full_data <- filter(full_data, !(country_name == "OECD members")) |>
     c("Czech Republic", "Slovak Republic") ~ "Europe",
     .default = continent
   )) |>
-  mutate(continent = factor(continent))
+  mutate(continent = fct(continent, levels = unique(continent_data$continent)))
+
+# Calculate median response for each continent
+
+summ_per_cont <-group_by(full_data, continent, .drop = F) |>
+  summarise(median = median(LO.PISA.MAT.0), n = n())
+
+summ_per_cont |> 
+  mutate(continent = continent |> fct_reorder(n)) |> 
+  ggplot(aes(x = continent, y = n)) +
+  geom_col() +
+  labs(x = "Continent", y = "# of participating regions")
+
+# Check the amount of missing values for each feature
+
+summarise(full_data, across(everything(), function(x)
+  mean(is.na(x)))) |>
+  tidyr::pivot_longer(everything()) |>
+  ggplot(aes(x = value)) + 
+  geom_histogram(binwidth = 0.1, fill = "white", color = "black") +
+  labs(x = "Prop. of missing values", y = "Count")
