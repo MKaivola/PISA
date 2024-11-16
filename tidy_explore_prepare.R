@@ -26,9 +26,7 @@ PISA_data <- read_csv("data/PISA_results/PISA_stats.csv", na = c("", "..")) |>
     ),
     too_few = "align_start"
   ) |>
-  mutate(gender = gender |> replace_na("Both")) |> 
-  mutate(across(!where(is.numeric), function(x)
-    fct(x))) |> 
+  mutate(gender = gender |> replace_na("Both")) |>
   select(!c(country_code, series_name))
 
 ### Add continent info to data
@@ -36,8 +34,8 @@ PISA_data <- read_csv("data/PISA_results/PISA_stats.csv", na = c("", "..")) |>
 continent_data <- read_csv("data/continents/continents.csv") |>
   janitor::clean_names() |>
   select(entity, continent)
-  
-PISA_data <- PISA_data |> 
+
+PISA_data <- PISA_data |>
   left_join(continent_data, by = join_by(country_name == entity))
 
 # Some entities are missing their continents
@@ -62,7 +60,8 @@ PISA_data <- PISA_data |>
     c("Czech Republic", "Slovak Republic") ~ "Europe",
     .default = continent
   )) |>
-  mutate(continent = fct(continent))
+  mutate(across(!where(is.numeric), function(x)
+    fct(x)))
 
 ### Compare Math Proficiency Level 0 in 2018 between genders
 
@@ -73,11 +72,9 @@ PISA_data |>
   filter(!if_all(!country_name, is.na)) |>
   mutate(gender_diff = FE - MA) |>
   mutate(country_name = country_name |> fct_reorder(gender_diff)) |>
-  pivot_longer(
-    !c(country_name, gender_diff),
-    names_to = "Gender",
-    values_to = "Proportion"
-  ) |>
+  pivot_longer(!c(country_name, gender_diff),
+               names_to = "Gender",
+               values_to = "Proportion") |>
   ggplot(aes(x = country_name, y = Proportion, color = Gender)) +
   geom_point() +
   scale_x_discrete(guide = guide_axis(angle = 40)) +
@@ -95,31 +92,32 @@ PISA_data |>
   mutate(level = level |> fct_reorder2(year, proportion)) |>
   ggplot(aes(x = year, y = proportion)) +
   geom_line(aes(group = level, color = level)) +
-  facet_wrap(vars(gender)) + 
+  facet_wrap(vars(gender)) +
   labs(x = "Year", y = "Proportion")
 
 ### Examine Math proficiency trends aggregated over continents
 
-PISA_data |> 
-  filter(gender == "Both" & subject == "MAT") |> 
+PISA_data |>
+  filter(gender == "Both" & subject == "MAT") |>
   pivot_longer(matches(r"(x\d+_yr\d+)"),
                names_to = "year",
-               values_to = "proportion") |> 
-  mutate(year = parse_number(year)) |> 
+               values_to = "proportion") |>
+  mutate(year = parse_number(year)) |>
   filter(n_distinct(country_name) > 5, .by = continent) |>
-  summarise(med_prop = median(proportion, na.rm = T), .by = c(continent, level, year)) |> 
+  summarise(med_prop = median(proportion, na.rm = T),
+            .by = c(continent, level, year)) |>
   ggplot(aes(x = year, y = med_prop)) +
-  geom_line(aes(group = level, color = level)) + 
+  geom_line(aes(group = level, color = level)) +
   facet_wrap(vars(continent)) +
   labs(x = "Year", y = "Proportion")
-  
+
 ### Prepare PISA Math. Prof. Level 0 in 2018 data for regression ###
 
 PISA_math_data_2018 <- PISA_data |>
-  filter(subject == "MAT" & level == 0 & gender == "Both") |> 
+  filter(subject == "MAT" & level == 0 & gender == "Both") |>
   select(country_name, continent, x2018_yr2018) |>
-  filter(!is.na(x2018_yr2018)) |> 
-  filter(country_name != "OECD members") |> 
+  filter(!is.na(x2018_yr2018)) |>
+  filter(country_name != "OECD members") |>
   rename(MAT.0.Both = x2018_yr2018)
 
 covariate_file_names <- list.files("data/Covariate_csv", full.names = T)
@@ -131,6 +129,9 @@ covariate_data <- read_csv(covariate_file_names, na = c("", "..")) |>
 
 covariate_codes <- covariate_data |>
   distinct(series_name, series_code)
+
+covariate_data <- covariate_data |>
+  select(!c(series_name, country_code))
 
 covariate_data_2018 <- covariate_data |>
   select(country_name, series_code, x2018_yr2018) |>
@@ -152,7 +153,7 @@ summ_per_cont |>
 
 # To avoid overfitting, lump the smallest continent groups together
 
-math_covar_data_2018 <- math_covar_data_2018 |> 
+math_covar_data_2018 <- math_covar_data_2018 |>
   mutate(continent = fct_lump_min(continent, 5))
 
 # Check the amount of missing values for each feature
@@ -165,3 +166,19 @@ summarise(math_covar_data_2018, across(everything(), function(x)
                  fill = "white",
                  color = "black") +
   labs(x = "Prop. of missing values", y = "Count")
+
+# Specify id string column and drop other string columns
+# Thus other columns should be either numerical or factor
+
+math_covar_data_2018_prepared <- math_covar_data_2018 |>
+  mutate(id = as.character(country_name)) |>
+  select(id | where(is.numeric) | where(is.factor))
+
+regression_data_dir <- "data/regression/"
+
+if (!dir.exists(regression_data_dir)) {
+  dir.create(regression_data_dir)
+}
+
+write_rds(math_covar_data_2018_prepared,
+          paste0(regression_data_dir, "df.rds"))
