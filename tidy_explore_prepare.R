@@ -106,16 +106,14 @@ PISA_data |>
                names_to = "year",
                values_to = "proportion") |> 
   mutate(year = parse_number(year)) |> 
-  group_by(continent) |> 
-  filter(n_distinct(country_name) > 5) |> 
-  ungroup() |> 
+  filter(n_distinct(country_name) > 5, .by = continent) |>
   summarise(med_prop = median(proportion, na.rm = T), .by = c(continent, level, year)) |> 
   ggplot(aes(x = year, y = med_prop)) +
   geom_line(aes(group = level, color = level)) + 
   facet_wrap(vars(continent)) +
   labs(x = "Year", y = "Proportion")
   
-### Regress PISA Math. Prof. Level 0 in 2018 ###
+### Prepare PISA Math. Prof. Level 0 in 2018 data for regression ###
 
 PISA_math_data_2018 <- PISA_data |>
   filter(subject == "MAT" & level == 0 & gender == "Both") |> 
@@ -141,7 +139,7 @@ covariate_data_2018 <- covariate_data |>
 
 math_covar_data_2018 <- left_join(PISA_math_data_2018, covariate_data_2018, by = join_by(country_name))
 
-# Calculate median response for each continent
+# Calculate median response and obs. count for each continent
 
 summ_per_cont <- group_by(math_covar_data_2018, continent, .drop = F) |>
   summarise(median = median(MAT.0.Both), n = n())
@@ -151,6 +149,11 @@ summ_per_cont |>
   ggplot(aes(x = continent, y = n)) +
   geom_col() +
   labs(x = "Continent", y = "# of participating regions")
+
+# To avoid overfitting, lump the smallest continent groups together
+
+math_covar_data_2018 <- math_covar_data_2018 |> 
+  mutate(continent = fct_lump_min(continent, 5))
 
 # Check the amount of missing values for each feature
 
