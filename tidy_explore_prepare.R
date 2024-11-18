@@ -4,6 +4,7 @@ library(tidyr)
 library(forcats)
 library(stringr)
 library(readr)
+library(purrr)
 
 
 ### PISA analysis ###
@@ -156,16 +157,62 @@ summ_per_cont |>
 math_covar_data_2018 <- math_covar_data_2018 |>
   mutate(continent = fct_lump_min(continent, 5))
 
-# Check the amount of missing values for each feature
+# Check the proportion of missing values for each feature
 
-summarise(math_covar_data_2018, across(everything(), function(x)
+missing_value_props <- summarise(math_covar_data_2018, across(everything(), function(x)
   mean(is.na(x)))) |>
-  tidyr::pivot_longer(everything()) |>
-  ggplot(aes(x = value)) +
+  pivot_longer(everything(), names_to = "predictor", values_to = "prop_missing")
+
+missing_value_props |>
+  ggplot(aes(x = prop_missing)) +
   geom_histogram(binwidth = 0.1,
                  fill = "white",
                  color = "black") +
   labs(x = "Prop. of missing values", y = "Count")
+
+# For high missing value proportions (over 0.5), check if there is any structure
+# to the missing values based on countries
+
+high_missing_vars <- missing_value_props |>
+  filter(prop_missing > 0.5) |>
+  left_join(covariate_codes, by = join_by(predictor == series_code))
+
+# All education related predictors, aside from the computer program one
+
+# For these high proportion of missing predictors, extract the countries
+# and check overlap
+
+missing_countries_per_predictor <- map(high_missing_vars$predictor, function(var) {
+  var_sym = sym(var)
+  filter(math_covar_data_2018, is.na({{var_sym}})) |>
+    select(country_name)
+})
+
+missing_country_intersect <- reduce(missing_countries_per_predictor, function(x, y)
+  intersect(x, y))
+
+missing_country_union <- reduce(missing_countries_per_predictor, function(x, y)
+  union(x, y))
+
+# Check the distribution of missing predictor count
+
+missing_predictor_count_per_country <- missing_countries_per_predictor |>
+  reduce(function(x, y)
+    union_all(x, y)) |>
+  count(country_name, name = "n_missing_vars")
+
+missing_predictor_count_per_country |> 
+  ggplot(aes(x = n_missing_vars)) +
+  geom_bar(fill = "white", color = "black") +
+  scale_x_continuous(breaks = 1:9) +
+  labs(x = "# of predictors missing", y = "Count")
+
+# Use these missing predictor counts as a new feature and
+# remove the corresponding predictors
+
+#math_covar_data_2018_filt <- math_covar_data_2018 |> 
+#  select(-any_of(high_missing_vars$predictor)) |> 
+#  left_join(missing_predictor_count_per_country, by = join_by(country_name))
 
 # Specify id string column and drop other string columns
 # Thus other columns should be either numerical or factor
@@ -176,9 +223,11 @@ math_covar_data_2018_prepared <- math_covar_data_2018 |>
 
 regression_data_dir <- "data/regression/"
 
-if (!dir.exists(regression_data_dir)) {
+if (!dir.exists(regression_data_dir))
+{
   dir.create(regression_data_dir)
 }
 
-write_rds(math_covar_data_2018_prepared,
-          paste0(regression_data_dir, "df.rds"))
+write_rds(
+  math_covar_data_2018_prepared, paste0(regression_data_dir, "df.rds")
+)

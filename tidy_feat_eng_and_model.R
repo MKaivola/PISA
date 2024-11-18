@@ -34,9 +34,46 @@ map(list(data_train, data_test), extract_continent_dist) |>
   ggplot(aes(x = continent, y = prop, fill = set)) +
   geom_col(position = "dodge")
 
-# Modelling using parsnip and recipes
+# Evaluation using 10-fold CV using a couple of different metrics
 
-gbm_model <- boost_tree(trees = 200) |>
+data_train_cv_split <- vfold_cv(data_train,
+                                v = 10,
+                                repeats = 5)
+
+eval_metrics <- metric_set(rmse, mae, rsq)
+
+# Quick fit using a random forest model
+
+rf_model <- rand_forest() |> 
+  set_mode("regression") |> 
+  set_engine("randomForest")
+
+rf_recipe <- recipe(MAT.0.Both ~ . , data = data_train) |> 
+  update_role(id, new_role = "ID") |> 
+  step_impute_median(all_numeric_predictors())
+
+rf_workflow <- workflow() |> 
+  add_recipe(rf_recipe) |> 
+  add_model(rf_model)
+
+rf_cv_fit <- rf_workflow |> 
+  fit_resamples(data_train_cv_split,
+                metrics = eval_metrics)
+
+collect_metrics(rf_cv_fit)
+
+rf_fit <- rf_workflow |> 
+  fit(data_train)
+
+rf_fit |> 
+  augment(data_test) |> 
+  eval_metrics(truth = MAT.0.Both, estimate = .pred)
+
+# More extensive tuning with a gradient boosted model
+
+gbm_model <- boost_tree(trees = 200,
+                        learn_rate = 0.05,
+                        sample_size = 0.75) |>
   set_mode("regression") |>
   set_engine("xgboost", objective = "reg:squarederror")
 
@@ -49,21 +86,13 @@ gbm_workflow <- workflow() |>
   add_recipe(gbm_recipe) |>
   add_model(gbm_model)
 
-eval_metrics <- metric_set(rmse, mae, rsq)
-
-# Evaluate gbm model using 10-Fold CV
-
-data_train_cv_split <- vfold_cv(data_train,
-                                v = 10,
-                                repeats = 5)
+# Evaluate gbm model using 10-Fold CV and test set
 
 gbm_cv_fit <- gbm_workflow |> 
   fit_resamples(data_train_cv_split,
                 metrics = eval_metrics)
 
 collect_metrics(gbm_cv_fit)
-
-# Evaluate metrics on test set
 
 gbm_fit <- gbm_workflow |>
   fit(data_train)
