@@ -207,12 +207,10 @@ missing_predictor_count_per_country |>
   scale_x_continuous(breaks = 1:9) +
   labs(x = "# of predictors missing", y = "Count")
 
-# Use these missing predictor counts as a new feature and
-# remove the corresponding predictors
+# Use these missing predictor counts as a new feature
 
-#math_covar_data_2018_filt <- math_covar_data_2018 |> 
-#  select(-any_of(high_missing_vars$predictor)) |> 
-#  left_join(missing_predictor_count_per_country, by = join_by(country_name))
+math_covar_data_2018 <- math_covar_data_2018 |> 
+  left_join(missing_predictor_count_per_country, by = join_by(country_name))
 
 # Specify id string column and drop other string columns
 # Thus other columns should be either numerical or factor
